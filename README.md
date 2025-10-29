@@ -1,5 +1,5 @@
 # STATUS Bench
-You can check our paper [WIP]()!
+You can check our paper [this link](https://arxiv.org/abs/2510.22571)!
 
 
 ![STATUS_Bench_image](asset/fig_status_top.png)
@@ -24,16 +24,29 @@ These findings underscore the necessity of STATUS Bench and Train for advancing 
 
 You can download the JSON files from the links below:
 
-- STATUS Train (coming soon): Training dataset
+- [STATUS Train](https://huggingface.co/datasets/tsukinohotori/STATUS_Train): Training dataset
 - [STATUS Bench](./Bench/STATUS_Bench.json): Benchmarking dataset
 - Please extract images from Ego4D dataset (please follow the instructions below).
 
-## Extracing images
+## Extracting images
 
 ### Environment Setup
 
+Install the OpenCV library:
+
 ```bash
 pip install opencv-python
+```
+
+Download STATUS_Train.json from [this link](https://huggingface.co/datasets/tsukinohotori/STATUS_Train) and place it in your directory following the structure below.
+
+```
+STATUS_Bench/
+├─ Bench/
+|  └─ STATUS_Bench.json
+├─ Train/
+|  └─ STATUS_Train.json
+└─ extract_frames.py
 ```
 
 ### Script
@@ -41,7 +54,7 @@ pip install opencv-python
 ```bash
 cd /path/to/STATUSBench/
 python extract_frames.py --video_path /path/to/ego4d/v1/full_scale/ --train --bench
-# To skip extracting images for STATUS Train, simply omit the --train flag.
+# If you want to skip extracting images for STATUS Train, simply omit the --train flag.
 ```
 
 ## Acknowledgements
@@ -53,4 +66,12 @@ This dataset annotations are distributed under CC BY-SA 4.0. Please also follow 
 
 ## Citation
 
-WIP
+```
+@inproceedings{Ukai_2025_ACMMM,
+author = {Ukai, Mahiro and Kurita, Shuhei and Inoue, Nakamasa},
+title = {STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models},
+year = {2025},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {4718–4727}
+}
+```
