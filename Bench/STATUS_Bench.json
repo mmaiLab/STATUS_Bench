@@ -1,8 +1,6 @@
 [
     {
         "id": 0,
-        "img_0": "ex_0000_0.png",
-        "img_1": "ex_0000_1.png",
         "caption_0": "an opened bus door",
         "caption_1": "a closed bus door",
         "dataset": "Ego4D",
@@ -17,12 +15,12 @@
                 "the bus driver keeps the door open",
                 "the bus driver slightly closes the door"
             ]
-        }
+        },
+        "image_0": "ex_0000_0",
+        "image_1": "ex_0000_1"
     },
     {
         "id": 1,
-        "img_0": "ex_0001_0.png",
-        "img_1": "ex_0001_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -37,12 +35,12 @@
                 "marginally open the entrance door",
                 "open the entrance door just enough to go through"
             ]
-        }
+        },
+        "image_0": "ex_0001_0",
+        "image_1": "ex_0001_1"
     },
     {
         "id": 2,
-        "img_0": "ex_0002_0.png",
-        "img_1": "ex_0002_1.png",
         "caption_0": "a monitor with the light off",
         "caption_1": "a monitor with the light on",
         "dataset": "Ego4D",
@@ -57,12 +55,12 @@
                 "turn up the monitor brightness enough to read the letters on it",
                 "turn up the monitor but it is still too dark to read letters on the monitor"
             ]
-        }
+        },
+        "image_0": "ex_0002_0",
+        "image_1": "ex_0002_1"
     },
     {
         "id": 3,
-        "img_0": "ex_0003_0.png",
-        "img_1": "ex_0003_1.png",
         "caption_0": "an unbroken egg",
         "caption_1": "a broken egg",
         "dataset": "Ego4D",
@@ -77,12 +75,12 @@
                 "fully open the cracked egg",
                 "try to crack open the cracked egg, but the contents haven't leaked out yet"
             ]
-        }
+        },
+        "image_0": "ex_0003_0",
+        "image_1": "ex_0003_1"
     },
     {
         "id": 4,
-        "img_0": "ex_0004_0.png",
-        "img_1": "ex_0004_1.png",
         "caption_0": "pure raw egg",
         "caption_1": "raw egg with mayonnaise",
         "dataset": "Ego4D",
@@ -97,12 +95,12 @@
                 "Add mayonnaise to completely cover the egg",
                 "Add the almost same amount of mayonnaise as eggs"
             ]
-        }
+        },
+        "image_0": "ex_0004_0",
+        "image_1": "ex_0004_1"
     },
     {
         "id": 5,
-        "img_0": "ex_0005_0.png",
-        "img_1": "ex_0005_1.png",
         "caption_0": "raw egg and mayonnaise before mixing",
         "caption_1": "mixed raw egg and mayonnaise",
         "dataset": "Ego4D",
@@ -117,12 +115,12 @@
                 "lightly mix the egg and mayonnaise",
                 "shake the bowl egg and mayonnaise"
             ]
-        }
+        },
+        "image_0": "ex_0005_0",
+        "image_1": "ex_0005_1"
     },
     {
         "id": 6,
-        "img_0": "ex_0006_0.png",
-        "img_1": "ex_0006_1.png",
         "caption_0": "empty pan",
         "caption_1": "a pan with oil",
         "dataset": "Ego4D",
@@ -137,12 +135,12 @@
                 "pour cooking oil into the pan until it is almost full",
                 "pour cooking oil into the pan until it is half full"
             ]
-        }
+        },
+        "image_0": "ex_0006_0",
+        "image_1": "ex_0006_1"
     },
     {
         "id": 7,
-        "img_0": "ex_0007_0.png",
-        "img_1": "ex_0007_1.png",
         "caption_0": "whole mushroom",
         "caption_1": "mushroom cut off the stem",
         "dataset": "Ego4D",
@@ -157,12 +155,12 @@
                 "slice the mushroom",
                 "trim the stem of the mushroom"
             ]
-        }
+        },
+        "image_0": "ex_0007_0",
+        "image_1": "ex_0007_1"
     },
     {
         "id": 8,
-        "img_0": "ex_0008_0.png",
-        "img_1": "ex_0008_1.png",
         "caption_0": "beaten egg and mushrooms",
         "caption_1": "scrambled egg and mushrooms",
         "dataset": "Ego4D",
@@ -177,12 +175,12 @@
                 "scramble the beaten egg in the pan",
                 "stir the beaten egg and mushroom in the unheated pan"
             ]
-        }
+        },
+        "image_0": "ex_0008_0",
+        "image_1": "ex_0008_1"
     },
     {
         "id": 9,
-        "img_0": "ex_0009_0.png",
-        "img_1": "ex_0009_1.png",
         "caption_0": "an opened salt box",
         "caption_1": "a closed salt box",
         "dataset": "Ego4D",
@@ -197,12 +195,12 @@
                 "slightly close the salt box",
                 "utterly close the salt box"
             ]
-        }
+        },
+        "image_0": "ex_0009_0",
+        "image_1": "ex_0009_1"
     },
     {
         "id": 10,
-        "img_0": "ex_0010_0.png",
-        "img_1": "ex_0010_1.png",
         "caption_0": "an empty blue dish",
         "caption_1": "a blue dish with scramble egg and mushrooms",
         "dataset": "Ego4D",
@@ -217,12 +215,12 @@
                 "slightly move the stir-fry into blue dish",
                 "totally move the stir-fry into blue dish"
             ]
-        }
+        },
+        "image_0": "ex_0010_0",
+        "image_1": "ex_0010_1"
     },
     {
         "id": 11,
-        "img_0": "ex_0011_0.png",
-        "img_1": "ex_0011_1.png",
         "caption_0": "a pan with detergent",
         "caption_1": "a rinsed pan",
         "dataset": "Ego4D",
@@ -237,12 +235,12 @@
                 "rinse the pan, but there's still a bit of detergent left",
                 "rinse the pan, but there's still quite a bit of detergent left"
             ]
-        }
+        },
+        "image_0": "ex_0011_0",
+        "image_1": "ex_0011_1"
     },
     {
         "id": 12,
-        "img_0": "ex_0012_0.png",
-        "img_1": "ex_0012_1.png",
         "caption_0": "a wet pan",
         "caption_1": "a dry pan",
         "dataset": "Ego4D",
@@ -257,12 +255,12 @@
                 "wipe the pan, but it is still soaking wet",
                 "wipe the pan, but some water remains on it"
             ]
-        }
+        },
+        "image_0": "ex_0012_0",
+        "image_1": "ex_0012_1"
     },
     {
         "id": 13,
-        "img_0": "ex_0013_0.png",
-        "img_1": "ex_0013_1.png",
         "caption_0": "a tray with items",
         "caption_1": "an empty tray",
         "dataset": "Ego4D",
@@ -277,12 +275,12 @@
                 "remove half of the objects from the tray",
                 "remove one object from the tray"
             ]
-        }
+        },
+        "image_0": "ex_0013_0",
+        "image_1": "ex_0013_1"
     },
     {
         "id": 14,
-        "img_0": "ex_0014_0.png",
-        "img_1": "ex_0014_1.png",
         "caption_0": "a whole bag",
         "caption_1": "an opened bag",
         "dataset": "Ego4D",
@@ -297,12 +295,12 @@
                 "slightly cut the bag with the scissors",
                 "try to cut the bag with the scissors, but the blades barely cut it"
             ]
-        }
+        },
+        "image_0": "ex_0014_0",
+        "image_1": "ex_0014_1"
     },
     {
         "id": 15,
-        "img_0": "ex_0015_0.png",
-        "img_1": "ex_0015_1.png",
         "caption_0": "an unlit firelighter",
         "caption_1": "a firelighter on fire",
         "dataset": "Ego4D",
@@ -317,12 +315,12 @@
                 "light the firelighter and all the charcoals",
                 "light the firelighter and some charcoals"
             ]
-        }
+        },
+        "image_0": "ex_0015_0",
+        "image_1": "ex_0015_1"
     },
     {
         "id": 16,
-        "img_0": "ex_0016_0.png",
-        "img_1": "ex_0016_1.png",
         "caption_0": "bare hands",
         "caption_1": "gloved hands",
         "dataset": "Ego4D",
@@ -337,12 +335,12 @@
                 "insert the left hand into the glove, but the wrist is not in yet",
                 "put on the glove totally"
             ]
-        }
+        },
+        "image_0": "ex_0016_0",
+        "image_1": "ex_0016_1"
     },
     {
         "id": 17,
-        "img_0": "ex_0017_0.png",
-        "img_1": "ex_0017_1.png",
         "caption_0": "a railing without paint",
         "caption_1": "a painted wood railing",
         "dataset": "Ego4D",
@@ -357,12 +355,12 @@
                 "paint the railing halfway",
                 "paint the small part of the railing"
             ]
-        }
+        },
+        "image_0": "ex_0017_0",
+        "image_1": "ex_0017_1"
     },
     {
         "id": 18,
-        "img_0": "ex_0018_0.png",
-        "img_1": "ex_0018_1.png",
         "caption_0": "a closed faucet",
         "caption_1": "a running faucet",
         "dataset": "Ego4D",
@@ -377,12 +375,12 @@
                 "open the faucet to moderate flow",
                 "open the faucet, but no water comes out"
             ]
-        }
+        },
+        "image_0": "ex_0018_0",
+        "image_1": "ex_0018_1"
     },
     {
         "id": 19,
-        "img_0": "ex_0019_0.png",
-        "img_1": "ex_0019_1.png",
         "caption_0": "a pot with the lid on",
         "caption_1": "an opened pot",
         "dataset": "Ego4D",
@@ -397,12 +395,12 @@
                 "slightly open the pot",
                 "try to open the pot, but its lid is too heavy to lift"
             ]
-        }
+        },
+        "image_0": "ex_0019_0",
+        "image_1": "ex_0019_1"
     },
     {
         "id": 20,
-        "img_0": "ex_0020_0.png",
-        "img_1": "ex_0020_1.png",
         "caption_0": "a light off",
         "caption_1": "a light on",
         "dataset": "Ego4D",
@@ -417,12 +415,12 @@
                 "Turn on the light, but it does not shine",
                 "Turn on the light, but it is too weak to illuminate the sink"
             ]
-        }
+        },
+        "image_0": "ex_0020_0",
+        "image_1": "ex_0020_1"
     },
     {
         "id": 21,
-        "img_0": "ex_0021_0.png",
-        "img_1": "ex_0021_1.png",
         "caption_0": "a brush outside paint",
         "caption_1": "a brush dipped in paint",
         "dataset": "Ego4D",
@@ -437,12 +435,12 @@
                 "dip the whole bristles of the brush in paint",
                 "lift the brush to keep it from being soaked in paint"
             ]
-        }
+        },
+        "image_0": "ex_0021_0",
+        "image_1": "ex_0021_1"
     },
     {
         "id": 22,
-        "img_0": "ex_0022_0.png",
-        "img_1": "ex_0022_1.png",
         "caption_0": "a empty bucket",
         "caption_1": "a bucket half full of water",
         "dataset": "Ego4D",
@@ -457,12 +455,12 @@
                 "pour water into the bucket until it is full",
                 "pour water into the bucket until it overflows"
             ]
-        }
+        },
+        "image_0": "ex_0022_0",
+        "image_1": "ex_0022_1"
     },
     {
         "id": 23,
-        "img_0": "ex_0023_0.png",
-        "img_1": "ex_0023_1.png",
         "caption_0": "a cat playing with toy",
         "caption_1": "a cat running",
         "dataset": "Ego4D",
@@ -477,12 +475,12 @@
                 "the cat starts running",
                 "the cat starts walking"
             ]
-        }
+        },
+        "image_0": "ex_0023_0",
+        "image_1": "ex_0023_1"
     },
     {
         "id": 24,
-        "img_0": "ex_0024_0.png",
-        "img_1": "ex_0024_1.png",
         "caption_0": "a pant held up by hand",
         "caption_1": "a pant hung on rack",
         "dataset": "Ego4D",
@@ -497,12 +495,12 @@
                 "lift the pant same height as the rack",
                 "lift the pant under the rack"
             ]
-        }
+        },
+        "image_0": "ex_0024_0",
+        "image_1": "ex_0024_1"
     },
     {
         "id": 25,
-        "img_0": "ex_0025_0.png",
-        "img_1": "ex_0025_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "an opened fridge",
         "dataset": "Ego4D",
@@ -517,12 +515,12 @@
                 "open the fridge halfway",
                 "open the fridge slightly"
             ]
-        }
+        },
+        "image_0": "ex_0025_0",
+        "image_1": "ex_0025_1"
     },
     {
         "id": 26,
-        "img_0": "ex_0026_0.png",
-        "img_1": "ex_0026_1.png",
         "caption_0": "a machine slanted to the left",
         "caption_1": "a machine slanted to the right",
         "dataset": "Ego4D",
@@ -537,12 +535,12 @@
                 "the machine tilts to the right about 50 degree",
                 "the machine tilts to the right about 80 degree"
             ]
-        }
+        },
+        "image_0": "ex_0026_0",
+        "image_1": "ex_0026_1"
     },
     {
         "id": 27,
-        "img_0": "ex_0027_0.png",
-        "img_1": "ex_0027_1.png",
         "caption_0": "a container aligned side-by-side",
         "caption_1": "a container stacked vertically",
         "dataset": "Ego4D",
@@ -557,12 +555,12 @@
                 "pile the containers roughly",
                 "pile the containers stepwise"
             ]
-        }
+        },
+        "image_0": "ex_0027_0",
+        "image_1": "ex_0027_1"
     },
     {
         "id": 28,
-        "img_0": "ex_0028_0.png",
-        "img_1": "ex_0028_1.png",
         "caption_0": "an empty glass",
         "caption_1": "a glass of water",
         "dataset": "Ego4D",
@@ -577,12 +575,12 @@
                 "fill the glass with water up to about 50%",
                 "fill the glass with water up to about 80%"
             ]
-        }
+        },
+        "image_0": "ex_0028_0",
+        "image_1": "ex_0028_1"
     },
     {
         "id": 29,
-        "img_0": "ex_0029_0.png",
-        "img_1": "ex_0029_1.png",
         "caption_0": "an opened bottle",
         "caption_1": "a bottle with the lid on",
         "dataset": "Ego4D",
@@ -597,12 +595,12 @@
                 "lift the lid above the bottle",
                 "put the lid on the bottle"
             ]
-        }
+        },
+        "image_0": "ex_0029_0",
+        "image_1": "ex_0029_1"
     },
     {
         "id": 30,
-        "img_0": "ex_0030_0.png",
-        "img_1": "ex_0030_1.png",
         "caption_0": "an empty test tube rack",
         "caption_1": "a rack with some test tubes",
         "dataset": "Ego4D",
@@ -617,12 +615,12 @@
                 "put some test tubes on the rack",
                 "remove all test tubes from the rack"
             ]
-        }
+        },
+        "image_0": "ex_0030_0",
+        "image_1": "ex_0030_1"
     },
     {
         "id": 31,
-        "img_0": "ex_0031_0.png",
-        "img_1": "ex_0031_1.png",
         "caption_0": "a test tube containing 10 milliliter of water",
         "caption_1": "a test tube containing 22.5 milliliter of water",
         "dataset": "Ego4D",
@@ -637,12 +635,12 @@
                 "add 48 milliliter of water",
                 "add 6 milliliter of water"
             ]
-        }
+        },
+        "image_0": "ex_0031_0",
+        "image_1": "ex_0031_1"
     },
     {
         "id": 32,
-        "img_0": "ex_0032_0.png",
-        "img_1": "ex_0032_1.png",
         "caption_0": "an opened box",
         "caption_1": "a closed box",
         "dataset": "Ego4D",
@@ -657,12 +655,12 @@
                 "keep the box open",
                 "slightly close the box"
             ]
-        }
+        },
+        "image_0": "ex_0032_0",
+        "image_1": "ex_0032_1"
     },
     {
         "id": 33,
-        "img_0": "ex_0033_0.png",
-        "img_1": "ex_0033_1.png",
         "caption_0": "a folded stepladder",
         "caption_1": "an upright stepladder",
         "dataset": "Ego4D",
@@ -677,12 +675,12 @@
                 "lean the ladder to the wall",
                 "set up the ladder halfway"
             ]
-        }
+        },
+        "image_0": "ex_0033_0",
+        "image_1": "ex_0033_1"
     },
     {
         "id": 34,
-        "img_0": "ex_0034_0.png",
-        "img_1": "ex_0034_1.png",
         "caption_0": "a tape binding wooden slab",
         "caption_1": "a tape cut with a cutter",
         "dataset": "Ego4D",
@@ -697,12 +695,12 @@
                 "slightly cut the tape binding wooden slab",
                 "touch the tape binding wooden slab with the cutter to mark where to cut"
             ]
-        }
+        },
+        "image_0": "ex_0034_0",
+        "image_1": "ex_0034_1"
     },
     {
         "id": 35,
-        "img_0": "ex_0035_0.png",
-        "img_1": "ex_0035_1.png",
         "caption_0": "a disconnected plug",
         "caption_1": "a plug connected with socket",
         "dataset": "Ego4D",
@@ -717,12 +715,12 @@
                 "keep the plug connected",
                 "try to disconnect the plug, but it stays connected"
             ]
-        }
+        },
+        "image_0": "ex_0035_0",
+        "image_1": "ex_0035_1"
     },
     {
         "id": 36,
-        "img_0": "ex_0036_0.png",
-        "img_1": "ex_0036_1.png",
         "caption_0": "an intact wooden board",
         "caption_1": "a cut wooden board",
         "dataset": "Ego4D",
@@ -737,12 +735,12 @@
                 "partially cut the wooden board",
                 "try to cut the wooden board, but it is still intact"
             ]
-        }
+        },
+        "image_0": "ex_0036_0",
+        "image_1": "ex_0036_1"
     },
     {
         "id": 37,
-        "img_0": "ex_0037_0.png",
-        "img_1": "ex_0037_1.png",
         "caption_0": "a sitting man wearing white t-shirt",
         "caption_1": "a standing man wearing white t-shirt",
         "dataset": "Ego4D",
@@ -757,12 +755,12 @@
                 "the man wearing a white shirt stands up",
                 "the man wearing a white shirt walks away"
             ]
-        }
+        },
+        "image_0": "ex_0037_0",
+        "image_1": "ex_0037_1"
     },
     {
         "id": 38,
-        "img_0": "ex_0038_0.png",
-        "img_1": "ex_0038_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -777,12 +775,12 @@
                 "open the cabinet slightly",
                 "open the cabinet that is slightly open"
             ]
-        }
+        },
+        "image_0": "ex_0038_0",
+        "image_1": "ex_0038_1"
     },
     {
         "id": 39,
-        "img_0": "ex_0039_0.png",
-        "img_1": "ex_0039_1.png",
         "caption_0": "an empty spoon",
         "caption_1": "a spoon with sugar",
         "dataset": "Ego4D",
@@ -797,12 +795,12 @@
                 "scoop a spoonful of sugar",
                 "scoop half a spoon of sugar"
             ]
-        }
+        },
+        "image_0": "ex_0039_0",
+        "image_1": "ex_0039_1"
     },
     {
         "id": 40,
-        "img_0": "ex_0040_0.png",
-        "img_1": "ex_0040_1.png",
         "caption_0": "a man holding a can",
         "caption_1": "a man drinking from a can",
         "dataset": "Ego4D",
@@ -817,12 +815,12 @@
                 "the man keep holding a can",
                 "the man sips carefully"
             ]
-        }
+        },
+        "image_0": "ex_0040_0",
+        "image_1": "ex_0040_1"
     },
     {
         "id": 41,
-        "img_0": "ex_0041_0.png",
-        "img_1": "ex_0041_1.png",
         "caption_0": "a serious man",
         "caption_1": "a joyful man",
         "dataset": "Ego4D",
@@ -837,12 +835,12 @@
                 "the man becomes poker face",
                 "the man becomes sad"
             ]
-        }
+        },
+        "image_0": "ex_0041_0",
+        "image_1": "ex_0041_1"
     },
     {
         "id": 42,
-        "img_0": "ex_0042_0.png",
-        "img_1": "ex_0042_1.png",
         "caption_0": "a closed closet",
         "caption_1": "an opened closet",
         "dataset": "Ego4D",
@@ -857,12 +855,12 @@
                 "open the closet more",
                 "open the closet slightly"
             ]
-        }
+        },
+        "image_0": "ex_0042_0",
+        "image_1": "ex_0042_1"
     },
     {
         "id": 43,
-        "img_0": "ex_0043_0.png",
-        "img_1": "ex_0043_1.png",
         "caption_0": "a monitor in sleep mode",
         "caption_1": "a monitor displays desktop screen",
         "dataset": "Ego4D",
@@ -877,12 +875,12 @@
                 "wake up and unlock the screen",
                 "wake up the monitor, but it goes to the lock screen"
             ]
-        }
+        },
+        "image_0": "ex_0043_0",
+        "image_1": "ex_0043_1"
     },
     {
         "id": 44,
-        "img_0": "ex_0044_0.png",
-        "img_1": "ex_0044_1.png",
         "caption_0": "an empty dough dividing machine",
         "caption_1": "a dough dividing machine filled with dough",
         "dataset": "Ego4D",
@@ -897,12 +895,12 @@
                 "fill the dough dividing machine up to about 80%",
                 "partially fill the dough dividing machine"
             ]
-        }
+        },
+        "image_0": "ex_0044_0",
+        "image_1": "ex_0044_1"
     },
     {
         "id": 45,
-        "img_0": "ex_0045_0.png",
-        "img_1": "ex_0045_1.png",
         "caption_0": "a long dough",
         "caption_1": "a formed dough",
         "dataset": "Ego4D",
@@ -917,12 +915,12 @@
                 "shape the dough into spiral",
                 "shape the dough into zigzag"
             ]
-        }
+        },
+        "image_0": "ex_0045_0",
+        "image_1": "ex_0045_1"
     },
     {
         "id": 46,
-        "img_0": "ex_0046_0.png",
-        "img_1": "ex_0046_1.png",
         "caption_0": "a lump of dough",
         "caption_1": "a divided dough",
         "dataset": "Ego4D",
@@ -937,12 +935,12 @@
                 "divide the dough into a fist-sized portion",
                 "divide the dough into a pillow-sized portion"
             ]
-        }
+        },
+        "image_0": "ex_0046_0",
+        "image_1": "ex_0046_1"
     },
     {
         "id": 47,
-        "img_0": "ex_0047_0.png",
-        "img_1": "ex_0047_1.png",
         "caption_0": "a closed refrigerator",
         "caption_1": "an opened refrigerator",
         "dataset": "Ego4D",
@@ -957,12 +955,12 @@
                 "open one side of the refrigerator door halfway",
                 "open one side of the refrigerator door slightly"
             ]
-        }
+        },
+        "image_0": "ex_0047_0",
+        "image_1": "ex_0047_1"
     },
     {
         "id": 48,
-        "img_0": "ex_0048_0.png",
-        "img_1": "ex_0048_1.png",
         "caption_0": "a disconnected plug",
         "caption_1": "a plug connected with socket",
         "dataset": "Ego4D",
@@ -977,12 +975,12 @@
                 "try to connect the plug to the socket, but it does not fit",
                 "try to connect the plug to the socket, but it is too tight to fit"
             ]
-        }
+        },
+        "image_0": "ex_0048_0",
+        "image_1": "ex_0048_1"
     },
     {
         "id": 49,
-        "img_0": "ex_0049_0.png",
-        "img_1": "ex_0049_1.png",
         "caption_0": "an intact board",
         "caption_1": "a damaged board",
         "dataset": "Ego4D",
@@ -997,12 +995,12 @@
                 "turn the board by 45 degrees",
                 "turn the board by 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0049_0",
+        "image_1": "ex_0049_1"
     },
     {
         "id": 50,
-        "img_0": "ex_0050_0.png",
-        "img_1": "ex_0050_1.png",
         "caption_0": "an extended tape measure",
         "caption_1": "a fully retracted tape measure",
         "dataset": "Ego4D",
@@ -1017,12 +1015,12 @@
                 "retract the tape measure halfway",
                 "slightly retract the tape measure"
             ]
-        }
+        },
+        "image_0": "ex_0050_0",
+        "image_1": "ex_0050_1"
     },
     {
         "id": 51,
-        "img_0": "ex_0051_0.png",
-        "img_1": "ex_0051_1.png",
         "caption_0": "an intact wooden board",
         "caption_1": "a vertically cut wooden board",
         "dataset": "Ego4D",
@@ -1037,12 +1035,12 @@
                 "cut the wooden board partially",
                 "try to cut the wooden board, but it is too hard to cut"
             ]
-        }
+        },
+        "image_0": "ex_0051_0",
+        "image_1": "ex_0051_1"
     },
     {
         "id": 52,
-        "img_0": "ex_0052_0.png",
-        "img_1": "ex_0052_1.png",
         "caption_0": "an intact wooden board",
         "caption_1": "a cut wooden board",
         "dataset": "Ego4D",
@@ -1057,12 +1055,12 @@
                 "cut the wooden board partially",
                 "try to cut the wooden board, but it is too hard to cut"
             ]
-        }
+        },
+        "image_0": "ex_0052_0",
+        "image_1": "ex_0052_1"
     },
     {
         "id": 53,
-        "img_0": "ex_0053_0.png",
-        "img_1": "ex_0053_1.png",
         "caption_0": "a closed book",
         "caption_1": "an opened book",
         "dataset": "Ego4D",
@@ -1077,12 +1075,12 @@
                 "open the book slightly",
                 "try to open the book, but it is glued shut"
             ]
-        }
+        },
+        "image_0": "ex_0053_0",
+        "image_1": "ex_0053_1"
     },
     {
         "id": 54,
-        "img_0": "ex_0054_0.png",
-        "img_1": "ex_0054_1.png",
         "caption_0": "a blank notebook",
         "caption_1": "a notebook with drawing",
         "dataset": "Ego4D",
@@ -1097,12 +1095,12 @@
                 "fill about 40% of the notebook with drawings",
                 "fill about 70% of the notebook with drawings"
             ]
-        }
+        },
+        "image_0": "ex_0054_0",
+        "image_1": "ex_0054_1"
     },
     {
         "id": 55,
-        "img_0": "ex_0055_0.png",
-        "img_1": "ex_0055_1.png",
         "caption_0": "a cat standing on all fours",
         "caption_1": "a cat standing on its hind legs",
         "dataset": "Ego4D",
@@ -1117,12 +1115,12 @@
                 "the cat stands on its hind legs",
                 "the cat stands on its left hind leg"
             ]
-        }
+        },
+        "image_0": "ex_0055_0",
+        "image_1": "ex_0055_1"
     },
     {
         "id": 56,
-        "img_0": "ex_0056_0.png",
-        "img_1": "ex_0056_1.png",
         "caption_0": "a cat standing on the floor",
         "caption_1": "a cat rolling on the floor",
         "dataset": "Ego4D",
@@ -1137,12 +1135,12 @@
                 "the cat lies on the floor, facing towards the wall",
                 "the cat stands on the floor"
             ]
-        }
+        },
+        "image_0": "ex_0056_0",
+        "image_1": "ex_0056_1"
     },
     {
         "id": 57,
-        "img_0": "ex_0057_0.png",
-        "img_1": "ex_0057_1.png",
         "caption_0": "a paper tube wrapped with thread about a quarter of the way",
         "caption_1": "a paper tube wrapped with thread about a half of the way",
         "dataset": "Ego4D",
@@ -1157,12 +1155,12 @@
                 "wrap the paper tube with thread until it is covered 75%",
                 "wrap the paper tube with thread until it is fully covered"
             ]
-        }
+        },
+        "image_0": "ex_0057_0",
+        "image_1": "ex_0057_1"
     },
     {
         "id": 58,
-        "img_0": "ex_0058_0.png",
-        "img_1": "ex_0058_1.png",
         "caption_0": "a brush outside paint",
         "caption_1": "a brush dipped in paint",
         "dataset": "Ego4D",
@@ -1177,12 +1175,12 @@
                 "dip the whole bristles of the brush in paint",
                 "lift the brush to keep it from being soaked in paint"
             ]
-        }
+        },
+        "image_0": "ex_0058_0",
+        "image_1": "ex_0058_1"
     },
     {
         "id": 59,
-        "img_0": "ex_0059_0.png",
-        "img_1": "ex_0059_1.png",
         "caption_0": "an opened vise",
         "caption_1": "a vise holding wooden boards",
         "dataset": "Ego4D",
@@ -1197,12 +1195,12 @@
                 "tighten the vise, but fail to secure the vise",
                 "try to narrow down the vise, but it is too stiff to adjust"
             ]
-        }
+        },
+        "image_0": "ex_0059_0",
+        "image_1": "ex_0059_1"
     },
     {
         "id": 60,
-        "img_0": "ex_0060_0.png",
-        "img_1": "ex_0060_1.png",
         "caption_0": "bare hands",
         "caption_1": "gloved hands",
         "dataset": "Ego4D",
@@ -1217,12 +1215,12 @@
                 "insert the fingertips of the both hands into the glove",
                 "put on the glove totally"
             ]
-        }
+        },
+        "image_0": "ex_0060_0",
+        "image_1": "ex_0060_1"
     },
     {
         "id": 61,
-        "img_0": "ex_0061_0.png",
-        "img_1": "ex_0061_1.png",
         "caption_0": "a smartphone in sleep mode",
         "caption_1": "a smartphone displaying lock screen",
         "dataset": "Ego4D",
@@ -1237,12 +1235,12 @@
                 "wake up and unlock the smartphone",
                 "wake up the smartphone, but it goes to the lock screen"
             ]
-        }
+        },
+        "image_0": "ex_0061_0",
+        "image_1": "ex_0061_1"
     },
     {
         "id": 62,
-        "img_0": "ex_0062_0.png",
-        "img_1": "ex_0062_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -1257,12 +1255,12 @@
                 "open the cabinet that is slightly open",
                 "try to open the cabinet, but it is too stiff to pull"
             ]
-        }
+        },
+        "image_0": "ex_0062_0",
+        "image_1": "ex_0062_1"
     },
     {
         "id": 63,
-        "img_0": "ex_0063_0.png",
-        "img_1": "ex_0063_1.png",
         "caption_0": "an opened drawer",
         "caption_1": "a closed drawer",
         "dataset": "Ego4D",
@@ -1277,12 +1275,12 @@
                 "slightly close the drawer",
                 "try to close the drawer, but it is too stiff to push"
             ]
-        }
+        },
+        "image_0": "ex_0063_0",
+        "image_1": "ex_0063_1"
     },
     {
         "id": 64,
-        "img_0": "ex_0064_0.png",
-        "img_1": "ex_0064_1.png",
         "caption_0": "an empty pot",
         "caption_1": "a pot of cooking oil",
         "dataset": "Ego4D",
@@ -1297,12 +1295,12 @@
                 "pour cooking oil into the pot until it is full",
                 "pour cooking oil into the pot until it overflows"
             ]
-        }
+        },
+        "image_0": "ex_0064_0",
+        "image_1": "ex_0064_1"
     },
     {
         "id": 65,
-        "img_0": "ex_0065_0.png",
-        "img_1": "ex_0065_1.png",
         "caption_0": "a man standing near a wall",
         "caption_1": "a man climbing a wall",
         "dataset": "Ego4D",
@@ -1317,12 +1315,12 @@
                 "the man climbs up about 5 meter",
                 "the man climbs up less than 1 meter"
             ]
-        }
+        },
+        "image_0": "ex_0065_0",
+        "image_1": "ex_0065_1"
     },
     {
         "id": 66,
-        "img_0": "ex_0066_0.png",
-        "img_1": "ex_0066_1.png",
         "caption_0": "a stand with a tangled cable",
         "caption_1": "a stand with a untangled cable",
         "dataset": "Ego4D",
@@ -1337,12 +1335,12 @@
                 "try to untangle the cable from the stand, but it becomes more tangled",
                 "try to untangle the cable from the stand, but it is too messy to untangle"
             ]
-        }
+        },
+        "image_0": "ex_0066_0",
+        "image_1": "ex_0066_1"
     },
     {
         "id": 67,
-        "img_0": "ex_0067_0.png",
-        "img_1": "ex_0067_1.png",
         "caption_0": "a closed grease container",
         "caption_1": "an opened grease container",
         "dataset": "Ego4D",
@@ -1357,12 +1355,12 @@
                 "slightly open the grease container",
                 "try to open the grease container, but it is too tight to rotate"
             ]
-        }
+        },
+        "image_0": "ex_0067_0",
+        "image_1": "ex_0067_1"
     },
     {
         "id": 68,
-        "img_0": "ex_0068_0.png",
-        "img_1": "ex_0068_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -1377,12 +1375,12 @@
                 "open the door slightly just enough for the hand to pass through",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0068_0",
+        "image_1": "ex_0068_1"
     },
     {
         "id": 69,
-        "img_0": "ex_0069_0.png",
-        "img_1": "ex_0069_1.png",
         "caption_0": "a tissue paper roll wrapped by prastic bag",
         "caption_1": "an unwrapped tissue paper roll",
         "dataset": "Ego4D",
@@ -1397,12 +1395,12 @@
                 "try to open the wrap but, it is too hard to tear",
                 "try to unwrap the paper roll, but it is too complex to unwrap"
             ]
-        }
+        },
+        "image_0": "ex_0069_0",
+        "image_1": "ex_0069_1"
     },
     {
         "id": 70,
-        "img_0": "ex_0070_0.png",
-        "img_1": "ex_0070_1.png",
         "caption_0": "an whole prastic bag",
         "caption_1": "an opened prastic bag",
         "dataset": "Ego4D",
@@ -1417,12 +1415,12 @@
                 "cut the prastic bag, but it is still closed",
                 "try to cut the prastic bag, but the scissors are too dull to cut"
             ]
-        }
+        },
+        "image_0": "ex_0070_0",
+        "image_1": "ex_0070_1"
     },
     {
         "id": 71,
-        "img_0": "ex_0071_0.png",
-        "img_1": "ex_0071_1.png",
         "caption_0": "a closed curtain",
         "caption_1": "an opened curtain",
         "dataset": "Ego4D",
@@ -1437,12 +1435,12 @@
                 "open the curtain just enough to pass through",
                 "open the curtain slightly"
             ]
-        }
+        },
+        "image_0": "ex_0071_0",
+        "image_1": "ex_0071_1"
     },
     {
         "id": 72,
-        "img_0": "ex_0072_0.png",
-        "img_1": "ex_0072_1.png",
         "caption_0": "a closed drawer",
         "caption_1": "an opened drawer",
         "dataset": "Ego4D",
@@ -1457,12 +1455,12 @@
                 "pull out the drawer",
                 "slightly open the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0072_0",
+        "image_1": "ex_0072_1"
     },
     {
         "id": 73,
-        "img_0": "ex_0073_0.png",
-        "img_1": "ex_0073_1.png",
         "caption_0": "a wheel attached to bicycle",
         "caption_1": "a wheel detached from bicycle",
         "dataset": "Ego4D",
@@ -1477,12 +1475,12 @@
                 "partially detach the wheel from the bicycle",
                 "shake the wheel to detach it from the bicycle"
             ]
-        }
+        },
+        "image_0": "ex_0073_0",
+        "image_1": "ex_0073_1"
     },
     {
         "id": 74,
-        "img_0": "ex_0074_0.png",
-        "img_1": "ex_0074_1.png",
         "caption_0": "an opened door",
         "caption_1": "a closed door",
         "dataset": "Ego4D",
@@ -1497,12 +1495,12 @@
                 "close the door that is slightly open",
                 "hold the door to keep it from closing"
             ]
-        }
+        },
+        "image_0": "ex_0074_0",
+        "image_1": "ex_0074_1"
     },
     {
         "id": 75,
-        "img_0": "ex_0075_0.png",
-        "img_1": "ex_0075_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -1517,12 +1515,12 @@
                 "open the cabinet slightly",
                 "try to open the cabinet, but it is too stiff to move"
             ]
-        }
+        },
+        "image_0": "ex_0075_0",
+        "image_1": "ex_0075_1"
     },
     {
         "id": 76,
-        "img_0": "ex_0076_0.png",
-        "img_1": "ex_0076_1.png",
         "caption_0": "a nail halfly driven into a cylinder",
         "caption_1": "a nail completely driven into a cylinder",
         "dataset": "Ego4D",
@@ -1537,12 +1535,12 @@
                 "slightly drive the nail",
                 "try to drive the nail, but the cylinder is too stiff to drive"
             ]
-        }
+        },
+        "image_0": "ex_0076_0",
+        "image_1": "ex_0076_1"
     },
     {
         "id": 77,
-        "img_0": "ex_0077_0.png",
-        "img_1": "ex_0077_1.png",
         "caption_0": "a raw wood",
         "caption_1": "a varnished wood",
         "dataset": "Ego4D",
@@ -1557,12 +1555,12 @@
                 "soak the wood in varnish",
                 "varnish the wood halfway"
             ]
-        }
+        },
+        "image_0": "ex_0077_0",
+        "image_1": "ex_0077_1"
     },
     {
         "id": 78,
-        "img_0": "ex_0078_0.png",
-        "img_1": "ex_0078_1.png",
         "caption_0": "a wet brush",
         "caption_1": "a brush with soap on it",
         "dataset": "Ego4D",
@@ -1577,12 +1575,12 @@
                 "put soap on the tip of the brush",
                 "put soap on the whole brush"
             ]
-        }
+        },
+        "image_0": "ex_0078_0",
+        "image_1": "ex_0078_1"
     },
     {
         "id": 79,
-        "img_0": "ex_0079_0.png",
-        "img_1": "ex_0079_1.png",
         "caption_0": "a sawdust covered machine",
         "caption_1": "a cleaned machine",
         "dataset": "Ego4D",
@@ -1597,12 +1595,12 @@
                 "completely clean off the sawdust on the machine",
                 "partially clean off the sawdust on the machine"
             ]
-        }
+        },
+        "image_0": "ex_0079_0",
+        "image_1": "ex_0079_1"
     },
     {
         "id": 80,
-        "img_0": "ex_0080_0.png",
-        "img_1": "ex_0080_1.png",
         "caption_0": "a sawdust covered table",
         "caption_1": "a cleaned table",
         "dataset": "Ego4D",
@@ -1617,12 +1615,12 @@
                 "partially remove the sawdust on the table",
                 "remove the sawdust on the table halfway"
             ]
-        }
+        },
+        "image_0": "ex_0080_0",
+        "image_1": "ex_0080_1"
     },
     {
         "id": 81,
-        "img_0": "ex_0081_0.png",
-        "img_1": "ex_0081_1.png",
         "caption_0": "a vial with the lid on",
         "caption_1": "an opened vial",
         "dataset": "Ego4D",
@@ -1637,12 +1635,12 @@
                 "try to open the vial, but its lid is too tight to rotate",
                 "try to rotate the lid of the vial, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0081_0",
+        "image_1": "ex_0081_1"
     },
     {
         "id": 82,
-        "img_0": "ex_0082_0.png",
-        "img_1": "ex_0082_1.png",
         "caption_0": "an opened white box",
         "caption_1": "a white box with the lid on",
         "dataset": "Ego4D",
@@ -1657,12 +1655,12 @@
                 "place the lid slightly open on top of the box",
                 "try to close the box, but the lid does not fit it"
             ]
-        }
+        },
+        "image_0": "ex_0082_0",
+        "image_1": "ex_0082_1"
     },
     {
         "id": 83,
-        "img_0": "ex_0083_0.png",
-        "img_1": "ex_0083_1.png",
         "caption_0": "an opened drawer",
         "caption_1": "a closed drawer",
         "dataset": "Ego4D",
@@ -1677,12 +1675,12 @@
                 "slightly close the drawer",
                 "try to close the drawer, but it is jammed"
             ]
-        }
+        },
+        "image_0": "ex_0083_0",
+        "image_1": "ex_0083_1"
     },
     {
         "id": 84,
-        "img_0": "ex_0084_0.png",
-        "img_1": "ex_0084_1.png",
         "caption_0": "an intact wood board",
         "caption_1": "a vertically cut wood board",
         "dataset": "Ego4D",
@@ -1697,12 +1695,12 @@
                 "cut the wooden board slightly",
                 "try to cut the wooden board, but it is too hard to cut"
             ]
-        }
+        },
+        "image_0": "ex_0084_0",
+        "image_1": "ex_0084_1"
     },
     {
         "id": 85,
-        "img_0": "ex_0085_0.png",
-        "img_1": "ex_0085_1.png",
         "caption_0": "a disconnected plug",
         "caption_1": "a plug connected with outlet",
         "dataset": "Ego4D",
@@ -1717,12 +1715,12 @@
                 "try to connect the plug to the outlet, but it does not fit",
                 "try to connect the plug to the outlet, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0085_0",
+        "image_1": "ex_0085_1"
     },
     {
         "id": 86,
-        "img_0": "ex_0086_0.png",
-        "img_1": "ex_0086_1.png",
         "caption_0": "a closed plastic pack",
         "caption_1": "an opened plastic pack",
         "dataset": "Ego4D",
@@ -1737,12 +1735,12 @@
                 "remove the lid of the pack",
                 "slightly open the pack"
             ]
-        }
+        },
+        "image_0": "ex_0086_0",
+        "image_1": "ex_0086_1"
     },
     {
         "id": 87,
-        "img_0": "ex_0087_0.png",
-        "img_1": "ex_0087_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -1757,12 +1755,12 @@
                 "open the door slightly",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0087_0",
+        "image_1": "ex_0087_1"
     },
     {
         "id": 88,
-        "img_0": "ex_0088_0.png",
-        "img_1": "ex_0088_1.png",
         "caption_0": "an unrolled sleeve",
         "caption_1": "a rolled sleeve",
         "dataset": "Ego4D",
@@ -1777,12 +1775,12 @@
                 "roll up the sleeve to the elbow",
                 "roll up the sleeve to the wrist"
             ]
-        }
+        },
+        "image_0": "ex_0088_0",
+        "image_1": "ex_0088_1"
     },
     {
         "id": 89,
-        "img_0": "ex_0089_0.png",
-        "img_1": "ex_0089_1.png",
         "caption_0": "a closed faucet",
         "caption_1": "an opened faucet",
         "dataset": "Ego4D",
@@ -1797,12 +1795,12 @@
                 "open the faucet to moderate flow",
                 "open the faucet, but no water comes out"
             ]
-        }
+        },
+        "image_0": "ex_0089_0",
+        "image_1": "ex_0089_1"
     },
     {
         "id": 90,
-        "img_0": "ex_0090_0.png",
-        "img_1": "ex_0090_1.png",
         "caption_0": "a shower hung on its holder",
         "caption_1": "a shower head held up by a hand",
         "dataset": "Ego4D",
@@ -1817,12 +1815,12 @@
                 "take the shower head from the holder",
                 "try to lift the shower head, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0090_0",
+        "image_1": "ex_0090_1"
     },
     {
         "id": 91,
-        "img_0": "ex_0091_0.png",
-        "img_1": "ex_0091_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -1837,12 +1835,12 @@
                 "open the door slightly",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0091_0",
+        "image_1": "ex_0091_1"
     },
     {
         "id": 92,
-        "img_0": "ex_0092_0.png",
-        "img_1": "ex_0092_1.png",
         "caption_0": "a closed seal pack",
         "caption_1": "an opened seal pack",
         "dataset": "Ego4D",
@@ -1857,12 +1855,12 @@
                 "tear open the seal pack",
                 "try to open the seal pack, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0092_0",
+        "image_1": "ex_0092_1"
     },
     {
         "id": 93,
-        "img_0": "ex_0093_0.png",
-        "img_1": "ex_0093_1.png",
         "caption_0": "an extended tape measure",
         "caption_1": "a fully retracted tape measure",
         "dataset": "Ego4D",
@@ -1877,12 +1875,12 @@
                 "retract the tape measure halfway",
                 "slightly retract the tape measure"
             ]
-        }
+        },
+        "image_0": "ex_0093_0",
+        "image_1": "ex_0093_1"
     },
     {
         "id": 94,
-        "img_0": "ex_0094_0.png",
-        "img_1": "ex_0094_1.png",
         "caption_0": "a cutter with the blade retracted",
         "caption_1": "a cutter with the blade extended",
         "dataset": "Ego4D",
@@ -1897,12 +1895,12 @@
                 "slightly extend the blade of the cutter",
                 "try to extend the blade, but it is jammed"
             ]
-        }
+        },
+        "image_0": "ex_0094_0",
+        "image_1": "ex_0094_1"
     },
     {
         "id": 95,
-        "img_0": "ex_0095_0.png",
-        "img_1": "ex_0095_1.png",
         "caption_0": "a dull pencil",
         "caption_1": "a sharp pencil",
         "dataset": "Ego4D",
@@ -1917,12 +1915,12 @@
                 "sharpen the pencil, but the lead end up being overly exposed",
                 "try to sharpen the pencil, but it is too hard to shave"
             ]
-        }
+        },
+        "image_0": "ex_0095_0",
+        "image_1": "ex_0095_1"
     },
     {
         "id": 96,
-        "img_0": "ex_0096_0.png",
-        "img_1": "ex_0096_1.png",
         "caption_0": "an opened marker",
         "caption_1": "a marker with its cap on",
         "dataset": "Ego4D",
@@ -1937,12 +1935,12 @@
                 "tightly cap the marker",
                 "try to cap the marker, but it does not fit"
             ]
-        }
+        },
+        "image_0": "ex_0096_0",
+        "image_1": "ex_0096_1"
     },
     {
         "id": 97,
-        "img_0": "ex_0097_0.png",
-        "img_1": "ex_0097_1.png",
         "caption_0": "a closed textbook",
         "caption_1": "an opened textbook",
         "dataset": "Ego4D",
@@ -1957,12 +1955,12 @@
                 "slightly open the textbook",
                 "try to open the textbook, but it is glued shut"
             ]
-        }
+        },
+        "image_0": "ex_0097_0",
+        "image_1": "ex_0097_1"
     },
     {
         "id": 98,
-        "img_0": "ex_0098_0.png",
-        "img_1": "ex_0098_1.png",
         "caption_0": "a closed laptop",
         "caption_1": "an opened laptop",
         "dataset": "Ego4D",
@@ -1977,12 +1975,12 @@
                 "slightly open the laptop",
                 "try to open the laptop, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0098_0",
+        "image_1": "ex_0098_1"
     },
     {
         "id": 99,
-        "img_0": "ex_0099_0.png",
-        "img_1": "ex_0099_1.png",
         "caption_0": "a laptop in sleep mode",
         "caption_1": "a laptop displaying lock screen",
         "dataset": "Ego4D",
@@ -1997,12 +1995,12 @@
                 "wake up and unlock the laptop",
                 "wake up the laptop, but it goes to the lock screen"
             ]
-        }
+        },
+        "image_0": "ex_0099_0",
+        "image_1": "ex_0099_1"
     },
     {
         "id": 100,
-        "img_0": "ex_0100_0.png",
-        "img_1": "ex_0100_1.png",
         "caption_0": "a closed notepad",
         "caption_1": "an opened notepad",
         "dataset": "Ego4D",
@@ -2017,12 +2015,12 @@
                 "open the notepad slightly",
                 "try to open the notepad, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0100_0",
+        "image_1": "ex_0100_1"
     },
     {
         "id": 101,
-        "img_0": "ex_0101_0.png",
-        "img_1": "ex_0101_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "an opened fridge",
         "dataset": "Ego4D",
@@ -2037,12 +2035,12 @@
                 "slightly open the fridge",
                 "try to open the fridge, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0101_0",
+        "image_1": "ex_0101_1"
     },
     {
         "id": 102,
-        "img_0": "ex_0102_0.png",
-        "img_1": "ex_0102_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -2057,12 +2055,12 @@
                 "open the right side of the cabinet door completely, and the left side halfway",
                 "open the right side of the cabinet door halfway, and the left side completely"
             ]
-        }
+        },
+        "image_0": "ex_0102_0",
+        "image_1": "ex_0102_1"
     },
     {
         "id": 103,
-        "img_0": "ex_0103_0.png",
-        "img_1": "ex_0103_1.png",
         "caption_0": "a wrapped mushroom",
         "caption_1": "an unwrapped mushroom",
         "dataset": "Ego4D",
@@ -2077,12 +2075,12 @@
                 "unwrap the mushroom completely",
                 "unwrap the mushroom halfway"
             ]
-        }
+        },
+        "image_0": "ex_0103_0",
+        "image_1": "ex_0103_1"
     },
     {
         "id": 104,
-        "img_0": "ex_0104_0.png",
-        "img_1": "ex_0104_1.png",
         "caption_0": "a clipped bag",
         "caption_1": "an opened bag",
         "dataset": "Ego4D",
@@ -2097,12 +2095,12 @@
                 "slide the clip to remove it slightly",
                 "try to slide the clip, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0104_0",
+        "image_1": "ex_0104_1"
     },
     {
         "id": 105,
-        "img_0": "ex_0105_0.png",
-        "img_1": "ex_0105_1.png",
         "caption_0": "a closed pepper shaker",
         "caption_1": "an opened pepper shaker",
         "dataset": "Ego4D",
@@ -2117,12 +2115,12 @@
                 "slightly open the pepper shaker",
                 "try to open the pepper shaker, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0105_0",
+        "image_1": "ex_0105_1"
     },
     {
         "id": 106,
-        "img_0": "ex_0106_0.png",
-        "img_1": "ex_0106_1.png",
         "caption_0": "a monitor in sleep mode",
         "caption_1": "a monitor displaying lock screen",
         "dataset": "Ego4D",
@@ -2137,12 +2135,12 @@
                 "wake up and unlock the monitor",
                 "wake up the monitor, but it goes to the lock screen"
             ]
-        }
+        },
+        "image_0": "ex_0106_0",
+        "image_1": "ex_0106_1"
     },
     {
         "id": 107,
-        "img_0": "ex_0107_0.png",
-        "img_1": "ex_0107_1.png",
         "caption_0": "a disconnected plug",
         "caption_1": "a plug connected with outlet",
         "dataset": "Ego4D",
@@ -2157,12 +2155,12 @@
                 "try to connect the plug to the outlet, but it does not fit",
                 "try to connect the plug to the outlet, but it is too tight to fit"
             ]
-        }
+        },
+        "image_0": "ex_0107_0",
+        "image_1": "ex_0107_1"
     },
     {
         "id": 108,
-        "img_0": "ex_0108_0.png",
-        "img_1": "ex_0108_1.png",
         "caption_0": "packed meat",
         "caption_1": "unpacked meat",
         "dataset": "Ego4D",
@@ -2177,12 +2175,12 @@
                 "slightly unpack the meat",
                 "unpack the meat halfway"
             ]
-        }
+        },
+        "image_0": "ex_0108_0",
+        "image_1": "ex_0108_1"
     },
     {
         "id": 109,
-        "img_0": "ex_0109_0.png",
-        "img_1": "ex_0109_1.png",
         "caption_0": "whole pieces of meat",
         "caption_1": "meat cut into small pieces",
         "dataset": "Ego4D",
@@ -2197,12 +2195,12 @@
                 "dice the meat",
                 "mince the meat"
             ]
-        }
+        },
+        "image_0": "ex_0109_0",
+        "image_1": "ex_0109_1"
     },
     {
         "id": 110,
-        "img_0": "ex_0110_0.png",
-        "img_1": "ex_0110_1.png",
         "caption_0": "a closed drawer",
         "caption_1": "an opened drawer",
         "dataset": "Ego4D",
@@ -2217,12 +2215,12 @@
                 "pull out the drawer",
                 "slightly open the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0110_0",
+        "image_1": "ex_0110_1"
     },
     {
         "id": 111,
-        "img_0": "ex_0111_0.png",
-        "img_1": "ex_0111_1.png",
         "caption_0": "an empty spoon",
         "caption_1": "a spoon filled with oil",
         "dataset": "Ego4D",
@@ -2237,12 +2235,12 @@
                 "pour cooking oil into the spoon until it is half full",
                 "pour cooking oil into the spoon until it overflows"
             ]
-        }
+        },
+        "image_0": "ex_0111_0",
+        "image_1": "ex_0111_1"
     },
     {
         "id": 112,
-        "img_0": "ex_0112_0.png",
-        "img_1": "ex_0112_1.png",
         "caption_0": "a closed drawer",
         "caption_1": "an opened drawer",
         "dataset": "Ego4D",
@@ -2257,12 +2255,12 @@
                 "open the drawer slightly",
                 "pull out the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0112_0",
+        "image_1": "ex_0112_1"
     },
     {
         "id": 113,
-        "img_0": "ex_0113_0.png",
-        "img_1": "ex_0113_1.png",
         "caption_0": "a closed drawer",
         "caption_1": "an opened drawer",
         "dataset": "Ego4D",
@@ -2277,12 +2275,12 @@
                 "slightly open the drawer",
                 "try to open the drawer, but it is jammed"
             ]
-        }
+        },
+        "image_0": "ex_0113_0",
+        "image_1": "ex_0113_1"
     },
     {
         "id": 114,
-        "img_0": "ex_0114_0.png",
-        "img_1": "ex_0114_1.png",
         "caption_0": "a rice container with its lid on",
         "caption_1": "an opened rice container",
         "dataset": "Ego4D",
@@ -2297,12 +2295,12 @@
                 "slightly open the rice container",
                 "try to open the rice container, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0114_0",
+        "image_1": "ex_0114_1"
     },
     {
         "id": 115,
-        "img_0": "ex_0115_0.png",
-        "img_1": "ex_0115_1.png",
         "caption_0": "an empty cup",
         "caption_1": "a cup filled with rice",
         "dataset": "Ego4D",
@@ -2317,12 +2315,12 @@
                 "fill the cup with rice slightly",
                 "fill the cup with rice until it overflows"
             ]
-        }
+        },
+        "image_0": "ex_0115_0",
+        "image_1": "ex_0115_1"
     },
     {
         "id": 116,
-        "img_0": "ex_0116_0.png",
-        "img_1": "ex_0116_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -2337,12 +2335,12 @@
                 "open the door slightly",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0116_0",
+        "image_1": "ex_0116_1"
     },
     {
         "id": 117,
-        "img_0": "ex_0117_0.png",
-        "img_1": "ex_0117_1.png",
         "caption_0": "a closed faucet",
         "caption_1": "an opened faucet",
         "dataset": "Ego4D",
@@ -2357,12 +2355,12 @@
                 "open the faucet to moderate flow",
                 "open the faucet, but no water comes out"
             ]
-        }
+        },
+        "image_0": "ex_0117_0",
+        "image_1": "ex_0117_1"
     },
     {
         "id": 118,
-        "img_0": "ex_0118_0.png",
-        "img_1": "ex_0118_1.png",
         "caption_0": "a closed rice cooker",
         "caption_1": "an opened rice cooker",
         "dataset": "Ego4D",
@@ -2377,12 +2375,12 @@
                 "slightly open the rice cooker",
                 "try to open the rice cooker, but it is jammed"
             ]
-        }
+        },
+        "image_0": "ex_0118_0",
+        "image_1": "ex_0118_1"
     },
     {
         "id": 119,
-        "img_0": "ex_0119_0.png",
-        "img_1": "ex_0119_1.png",
         "caption_0": "a closed refrigerator",
         "caption_1": "an opened refrigerator",
         "dataset": "Ego4D",
@@ -2397,12 +2395,12 @@
                 "open the refrigerator just enough to reach vegetables",
                 "slightly open the refrigerator"
             ]
-        }
+        },
+        "image_0": "ex_0119_0",
+        "image_1": "ex_0119_1"
     },
     {
         "id": 120,
-        "img_0": "ex_0120_0.png",
-        "img_1": "ex_0120_1.png",
         "caption_0": "whole eggplants",
         "caption_1": "eggplants with the stem removed",
         "dataset": "Ego4D",
@@ -2417,12 +2415,12 @@
                 "remove the stem of the eggplants",
                 "slice the eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0120_0",
+        "image_1": "ex_0120_1"
     },
     {
         "id": 121,
-        "img_0": "ex_0121_0.png",
-        "img_1": "ex_0121_1.png",
         "caption_0": "eggplants with the stem removed",
         "caption_1": "eggplants with the skin peeled",
         "dataset": "Ego4D",
@@ -2437,12 +2435,12 @@
                 "peel the eggplants",
                 "remove the stem of the eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0121_0",
+        "image_1": "ex_0121_1"
     },
     {
         "id": 122,
-        "img_0": "ex_0122_0.png",
-        "img_1": "ex_0122_1.png",
         "caption_0": "eggplant on cling film",
         "caption_1": "eggplant wrapped with cling film",
         "dataset": "Ego4D",
@@ -2457,12 +2455,12 @@
                 "place the wrap under the eggplants",
                 "wrap the stem of each eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0122_0",
+        "image_1": "ex_0122_1"
     },
     {
         "id": 123,
-        "img_0": "ex_0123_0.png",
-        "img_1": "ex_0123_1.png",
         "caption_0": "a closed microwave",
         "caption_1": "an opened microwave",
         "dataset": "Ego4D",
@@ -2477,12 +2475,12 @@
                 "slightly open the microwave",
                 "try to open the microwave, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0123_0",
+        "image_1": "ex_0123_1"
     },
     {
         "id": 124,
-        "img_0": "ex_0124_0.png",
-        "img_1": "ex_0124_1.png",
         "caption_0": "a closed cupboard",
         "caption_1": "an opened cupboard",
         "dataset": "Ego4D",
@@ -2497,12 +2495,12 @@
                 "open the cupboard halfway",
                 "slightly open the cupboard"
             ]
-        }
+        },
+        "image_0": "ex_0124_0",
+        "image_1": "ex_0124_1"
     },
     {
         "id": 125,
-        "img_0": "ex_0125_0.png",
-        "img_1": "ex_0125_1.png",
         "caption_0": "a cup with a mixture of solid and liquid",
         "caption_1": "a cup with a liquid with dissolved solids",
         "dataset": "Ego4D",
@@ -2517,12 +2515,12 @@
                 "mix the seasonings until the solid ones are partially dissolved",
                 "wait for the solid seasonings to dissolve"
             ]
-        }
+        },
+        "image_0": "ex_0125_0",
+        "image_1": "ex_0125_1"
     },
     {
         "id": 126,
-        "img_0": "ex_0126_0.png",
-        "img_1": "ex_0126_1.png",
         "caption_0": "a whole onion",
         "caption_1": "an onion with the stem removed",
         "dataset": "Ego4D",
@@ -2537,12 +2535,12 @@
                 "remove the stem of the onion",
                 "slice the onion"
             ]
-        }
+        },
+        "image_0": "ex_0126_0",
+        "image_1": "ex_0126_1"
     },
     {
         "id": 127,
-        "img_0": "ex_0127_0.png",
-        "img_1": "ex_0127_1.png",
         "caption_0": "an unopened wipe",
         "caption_1": "a torn-open wipe",
         "dataset": "Ego4D",
@@ -2557,12 +2555,12 @@
                 "tear open the wipe container slightly",
                 "tear open the wipe container, but not enough to take out the wipe"
             ]
-        }
+        },
+        "image_0": "ex_0127_0",
+        "image_1": "ex_0127_1"
     },
     {
         "id": 128,
-        "img_0": "ex_0128_0.png",
-        "img_1": "ex_0128_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -2577,12 +2575,12 @@
                 "open the cabinet more",
                 "open the cabinet slightly"
             ]
-        }
+        },
+        "image_0": "ex_0128_0",
+        "image_1": "ex_0128_1"
     },
     {
         "id": 129,
-        "img_0": "ex_0129_0.png",
-        "img_1": "ex_0129_1.png",
         "caption_0": "a container with the lid on",
         "caption_1": "an opened container",
         "dataset": "Ego4D",
@@ -2597,12 +2595,12 @@
                 "slightly open the rice container",
                 "try to open the rice container, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0129_0",
+        "image_1": "ex_0129_1"
     },
     {
         "id": 130,
-        "img_0": "ex_0130_0.png",
-        "img_1": "ex_0130_1.png",
         "caption_0": "a closed tap",
         "caption_1": "an opened tap",
         "dataset": "Ego4D",
@@ -2617,12 +2615,12 @@
                 "open the faucet to moderate flow",
                 "open the faucet, but no water comes out"
             ]
-        }
+        },
+        "image_0": "ex_0130_0",
+        "image_1": "ex_0130_1"
     },
     {
         "id": 131,
-        "img_0": "ex_0131_0.png",
-        "img_1": "ex_0131_1.png",
         "caption_0": "bare hands",
         "caption_1": "gloved hands",
         "dataset": "Ego4D",
@@ -2637,12 +2635,12 @@
                 "put on the gloves until they just cover the hands",
                 "put on the gloves until they just cover the wrists"
             ]
-        }
+        },
+        "image_0": "ex_0131_0",
+        "image_1": "ex_0131_1"
     },
     {
         "id": 132,
-        "img_0": "ex_0132_0.png",
-        "img_1": "ex_0132_1.png",
         "caption_0": "shoes without detergent",
         "caption_1": "shoes with detergent on them",
         "dataset": "Ego4D",
@@ -2657,12 +2655,12 @@
                 "apply detergent to the shoes by soaking them",
                 "apply detergent to the tip of the shoes"
             ]
-        }
+        },
+        "image_0": "ex_0132_0",
+        "image_1": "ex_0132_1"
     },
     {
         "id": 133,
-        "img_0": "ex_0133_0.png",
-        "img_1": "ex_0133_1.png",
         "caption_0": "a coffee maker with the lid on",
         "caption_1": "an opened coffee maker",
         "dataset": "Ego4D",
@@ -2677,12 +2675,12 @@
                 "slightly open the coffee maker",
                 "try to open the coffee maker, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0133_0",
+        "image_1": "ex_0133_1"
     },
     {
         "id": 134,
-        "img_0": "ex_0134_0.png",
-        "img_1": "ex_0134_1.png",
         "caption_0": "an opened drawer",
         "caption_1": "a closed drawer",
         "dataset": "Ego4D",
@@ -2697,12 +2695,12 @@
                 "completely close the drawer",
                 "slightly close the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0134_0",
+        "image_1": "ex_0134_1"
     },
     {
         "id": 135,
-        "img_0": "ex_0135_0.png",
-        "img_1": "ex_0135_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -2717,12 +2715,12 @@
                 "slightly open the cabinet",
                 "try to open the cabinet, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0135_0",
+        "image_1": "ex_0135_1"
     },
     {
         "id": 136,
-        "img_0": "ex_0136_0.png",
-        "img_1": "ex_0136_1.png",
         "caption_0": "an assembled box",
         "caption_1": "a flattened box",
         "dataset": "Ego4D",
@@ -2737,12 +2735,12 @@
                 "partially flatten the box",
                 "tear the box open"
             ]
-        }
+        },
+        "image_0": "ex_0136_0",
+        "image_1": "ex_0136_1"
     },
     {
         "id": 137,
-        "img_0": "ex_0137_0.png",
-        "img_1": "ex_0137_1.png",
         "caption_0": "a clean left hand",
         "caption_1": "a sprayed left hand",
         "dataset": "Ego4D",
@@ -2757,12 +2755,12 @@
                 "spray on almost the whole left hand and wrist",
                 "spray on some fingers of the left hand"
             ]
-        }
+        },
+        "image_0": "ex_0137_0",
+        "image_1": "ex_0137_1"
     },
     {
         "id": 138,
-        "img_0": "ex_0138_0.png",
-        "img_1": "ex_0138_1.png",
         "caption_0": "a partially open bonnet",
         "caption_1": "a fully open bonnet",
         "dataset": "Ego4D",
@@ -2777,12 +2775,12 @@
                 "fully open the slightly raised bonnet",
                 "slightly open the closed bonnet"
             ]
-        }
+        },
+        "image_0": "ex_0138_0",
+        "image_1": "ex_0138_1"
     },
     {
         "id": 139,
-        "img_0": "ex_0139_0.png",
-        "img_1": "ex_0139_1.png",
         "caption_0": "people lowering their arms",
         "caption_1": "people stretching their arms",
         "dataset": "Ego4D",
@@ -2797,12 +2795,12 @@
                 "people strech their arms to the sides of their bodies",
                 "people strech their arms upward in front of their bodies"
             ]
-        }
+        },
+        "image_0": "ex_0139_0",
+        "image_1": "ex_0139_1"
     },
     {
         "id": 140,
-        "img_0": "ex_0140_0.png",
-        "img_1": "ex_0140_1.png",
         "caption_0": "people sitting around a desk",
         "caption_1": "people standing around a desk",
         "dataset": "Ego4D",
@@ -2817,12 +2815,12 @@
                 "people stand up completely",
                 "people stand up, but some are losing their balance"
             ]
-        }
+        },
+        "image_0": "ex_0140_0",
+        "image_1": "ex_0140_1"
     },
     {
         "id": 141,
-        "img_0": "ex_0141_0.png",
-        "img_1": "ex_0141_1.png",
         "caption_0": "an opened faucet",
         "caption_1": "a closed faucet",
         "dataset": "Ego4D",
@@ -2837,12 +2835,12 @@
                 "turn the tap so that it drips",
                 "turn the tap to low flow"
             ]
-        }
+        },
+        "image_0": "ex_0141_0",
+        "image_1": "ex_0141_1"
     },
     {
         "id": 142,
-        "img_0": "ex_0142_0.png",
-        "img_1": "ex_0142_1.png",
         "caption_0": "a whole spring onion",
         "caption_1": "a spring onion with the root removed",
         "dataset": "Ego4D",
@@ -2857,12 +2855,12 @@
                 "cut the spring onion into two pieces",
                 "remove the root of the spring onion"
             ]
-        }
+        },
+        "image_0": "ex_0142_0",
+        "image_1": "ex_0142_1"
     },
     {
         "id": 143,
-        "img_0": "ex_0143_0.png",
-        "img_1": "ex_0143_1.png",
         "caption_0": "whole spring onions",
         "caption_1": "chopped spring onions",
         "dataset": "Ego4D",
@@ -2877,12 +2875,12 @@
                 "cut the spring onion into pieces as small as a pen",
                 "cut the spring onion into pieces as small as an eraser"
             ]
-        }
+        },
+        "image_0": "ex_0143_0",
+        "image_1": "ex_0143_1"
     },
     {
         "id": 144,
-        "img_0": "ex_0144_0.png",
-        "img_1": "ex_0144_1.png",
         "caption_0": "whole tofu",
         "caption_1": "chopped tofu",
         "dataset": "Ego4D",
@@ -2897,12 +2895,12 @@
                 "dice the tofu into pieces as small as an eraser",
                 "mince the tofu"
             ]
-        }
+        },
+        "image_0": "ex_0144_0",
+        "image_1": "ex_0144_1"
     },
     {
         "id": 145,
-        "img_0": "ex_0145_0.png",
-        "img_1": "ex_0145_1.png",
         "caption_0": "a whole green pea",
         "caption_1": "diagonal slices of green pea",
         "dataset": "Ego4D",
@@ -2917,12 +2915,12 @@
                 "cut green pea into square slices",
                 "cut green pea into trianglar slices"
             ]
-        }
+        },
+        "image_0": "ex_0145_0",
+        "image_1": "ex_0145_1"
     },
     {
         "id": 146,
-        "img_0": "ex_0146_0.png",
-        "img_1": "ex_0146_1.png",
         "caption_0": "a carton with the lid on",
         "caption_1": "an opened carton",
         "dataset": "Ego4D",
@@ -2937,12 +2935,12 @@
                 "rotate the lid of the carton",
                 "rotate the lid of the carton, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0146_0",
+        "image_1": "ex_0146_1"
     },
     {
         "id": 147,
-        "img_0": "ex_0147_0.png",
-        "img_1": "ex_0147_1.png",
         "caption_0": "a closed microwave",
         "caption_1": "an opened microwave",
         "dataset": "Ego4D",
@@ -2957,12 +2955,12 @@
                 "slightly open the microwave",
                 "try to open the microwave, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0147_0",
+        "image_1": "ex_0147_1"
     },
     {
         "id": 148,
-        "img_0": "ex_0148_0.png",
-        "img_1": "ex_0148_1.png",
         "caption_0": "a closed refrigerator",
         "caption_1": "an opened refrigerator",
         "dataset": "Ego4D",
@@ -2977,12 +2975,12 @@
                 "slightly open the refrigerator",
                 "try to open the refrigerator, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0148_0",
+        "image_1": "ex_0148_1"
     },
     {
         "id": 149,
-        "img_0": "ex_0149_0.png",
-        "img_1": "ex_0149_1.png",
         "caption_0": "a whole mushroom",
         "caption_1": "a vertically cut mushroom",
         "dataset": "Ego4D",
@@ -2997,12 +2995,12 @@
                 "cut the mushroom into small pieces",
                 "remove the tough part of the mushroom"
             ]
-        }
+        },
+        "image_0": "ex_0149_0",
+        "image_1": "ex_0149_1"
     },
     {
         "id": 150,
-        "img_0": "ex_0150_0.png",
-        "img_1": "ex_0150_1.png",
         "caption_0": "a sheet of cabbage",
         "caption_1": "shredded cabbage",
         "dataset": "Ego4D",
@@ -3017,12 +3015,12 @@
                 "mince the cabbage halfly",
                 "shred the cabbage halfly"
             ]
-        }
+        },
+        "image_0": "ex_0150_0",
+        "image_1": "ex_0150_1"
     },
     {
         "id": 151,
-        "img_0": "ex_0151_0.png",
-        "img_1": "ex_0151_1.png",
         "caption_0": "an unlit gas stove",
         "caption_1": "a lit gas stove",
         "dataset": "Ego4D",
@@ -3037,12 +3035,12 @@
                 "turn on the gas stove to low heat",
                 "turn on the gas stove to middle heat"
             ]
-        }
+        },
+        "image_0": "ex_0151_0",
+        "image_1": "ex_0151_1"
     },
     {
         "id": 152,
-        "img_0": "ex_0152_0.png",
-        "img_1": "ex_0152_1.png",
         "caption_0": "a pen with the cap on",
         "caption_1": "a pen with the cap removed",
         "dataset": "Ego4D",
@@ -3057,12 +3055,12 @@
                 "rotate the lid of pen",
                 "try to open the pen, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0152_0",
+        "image_1": "ex_0152_1"
     },
     {
         "id": 153,
-        "img_0": "ex_0153_0.png",
-        "img_1": "ex_0153_1.png",
         "caption_0": "a closed cupboard",
         "caption_1": "an opened cupboard",
         "dataset": "Ego4D",
@@ -3077,12 +3075,12 @@
                 "open the cupboard slightly",
                 "try to open the cupboard, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0153_0",
+        "image_1": "ex_0153_1"
     },
     {
         "id": 154,
-        "img_0": "ex_0154_0.png",
-        "img_1": "ex_0154_1.png",
         "caption_0": "a wet sink",
         "caption_1": "a dry sink",
         "dataset": "Ego4D",
@@ -3097,12 +3095,12 @@
                 "wipe the sink deck",
                 "wipe the whole sink"
             ]
-        }
+        },
+        "image_0": "ex_0154_0",
+        "image_1": "ex_0154_1"
     },
     {
         "id": 155,
-        "img_0": "ex_0155_0.png",
-        "img_1": "ex_0155_1.png",
         "caption_0": "a dry sink",
         "caption_1": "a soaped sink",
         "dataset": "Ego4D",
@@ -3117,12 +3115,12 @@
                 "apply detergent to the sink deck",
                 "apply detergent to the whole sink"
             ]
-        }
+        },
+        "image_0": "ex_0155_0",
+        "image_1": "ex_0155_1"
     },
     {
         "id": 156,
-        "img_0": "ex_0156_0.png",
-        "img_1": "ex_0156_1.png",
         "caption_0": "a closed washing machine",
         "caption_1": "an opened washing machine",
         "dataset": "Ego4D",
@@ -3137,12 +3135,12 @@
                 "open the washing machine slightly",
                 "open the washing machine to about a 90-degree angle"
             ]
-        }
+        },
+        "image_0": "ex_0156_0",
+        "image_1": "ex_0156_1"
     },
     {
         "id": 157,
-        "img_0": "ex_0157_0.png",
-        "img_1": "ex_0157_1.png",
         "caption_0": "a closed tap",
         "caption_1": "an opened tap",
         "dataset": "Ego4D",
@@ -3157,12 +3155,12 @@
                 "turn the tap to low flow",
                 "turn the tap to moderate flow"
             ]
-        }
+        },
+        "image_0": "ex_0157_0",
+        "image_1": "ex_0157_1"
     },
     {
         "id": 158,
-        "img_0": "ex_0158_0.png",
-        "img_1": "ex_0158_1.png",
         "caption_0": "a sink with running water",
         "caption_1": "a sink filled with soap",
         "dataset": "Ego4D",
@@ -3177,12 +3175,12 @@
                 "fill the sink with soap up to 30% full",
                 "fill the sink with soap up to 70% full"
             ]
-        }
+        },
+        "image_0": "ex_0158_0",
+        "image_1": "ex_0158_1"
     },
     {
         "id": 159,
-        "img_0": "ex_0159_0.png",
-        "img_1": "ex_0159_1.png",
         "caption_0": "closed window",
         "caption_1": "opened window",
         "dataset": "Ego4D",
@@ -3197,12 +3195,12 @@
                 "open the window halfway",
                 "slightly open the window"
             ]
-        }
+        },
+        "image_0": "ex_0159_0",
+        "image_1": "ex_0159_1"
     },
     {
         "id": 160,
-        "img_0": "ex_0160_0.png",
-        "img_1": "ex_0160_1.png",
         "caption_0": "a closed bin",
         "caption_1": "an opened bin",
         "dataset": "Ego4D",
@@ -3217,12 +3215,12 @@
                 "open the bin halfway",
                 "open the bin slightly"
             ]
-        }
+        },
+        "image_0": "ex_0160_0",
+        "image_1": "ex_0160_1"
     },
     {
         "id": 161,
-        "img_0": "ex_0161_0.png",
-        "img_1": "ex_0161_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "an opened fridge",
         "dataset": "Ego4D",
@@ -3237,12 +3235,12 @@
                 "open the fridge slightly",
                 "open the fridge to about 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0161_0",
+        "image_1": "ex_0161_1"
     },
     {
         "id": 162,
-        "img_0": "ex_0162_0.png",
-        "img_1": "ex_0162_1.png",
         "caption_0": "a closed tap",
         "caption_1": "an opened tap",
         "dataset": "Ego4D",
@@ -3257,12 +3255,12 @@
                 "turn on the faucet to low flow",
                 "turn on the faucet to moderate flow"
             ]
-        }
+        },
+        "image_0": "ex_0162_0",
+        "image_1": "ex_0162_1"
     },
     {
         "id": 163,
-        "img_0": "ex_0163_0.png",
-        "img_1": "ex_0163_1.png",
         "caption_0": "a whole bread",
         "caption_1": "a bread that has been bitten",
         "dataset": "Ego4D",
@@ -3277,12 +3275,12 @@
                 "eat most of the bread",
                 "eat the bread completely"
             ]
-        }
+        },
+        "image_0": "ex_0163_0",
+        "image_1": "ex_0163_1"
     },
     {
         "id": 164,
-        "img_0": "ex_0164_0.png",
-        "img_1": "ex_0164_1.png",
         "caption_0": "an initial jenga tower",
         "caption_1": "an unstable jenga tower",
         "dataset": "Ego4D",
@@ -3297,12 +3295,12 @@
                 "play many rounds of jenga, and the tower becomes unstable",
                 "play many rounds of jenga, but the tower is still stable"
             ]
-        }
+        },
+        "image_0": "ex_0164_0",
+        "image_1": "ex_0164_1"
     },
     {
         "id": 165,
-        "img_0": "ex_0165_0.png",
-        "img_1": "ex_0165_1.png",
         "caption_0": "an unstable jenga tower",
         "caption_1": "a collapsed jenga tower",
         "dataset": "Ego4D",
@@ -3317,12 +3315,12 @@
                 "fully collapse the jenga tower",
                 "partially collapse the jenga tower"
             ]
-        }
+        },
+        "image_0": "ex_0165_0",
+        "image_1": "ex_0165_1"
     },
     {
         "id": 166,
-        "img_0": "ex_0166_0.png",
-        "img_1": "ex_0166_1.png",
         "caption_0": "a messy floor",
         "caption_1": "a clean floor",
         "dataset": "Ego4D",
@@ -3337,12 +3335,12 @@
                 "completely clean the floor halfway",
                 "partially clean the floor"
             ]
-        }
+        },
+        "image_0": "ex_0166_0",
+        "image_1": "ex_0166_1"
     },
     {
         "id": 167,
-        "img_0": "ex_0167_0.png",
-        "img_1": "ex_0167_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -3357,12 +3355,12 @@
                 "open the cabinet halfway",
                 "open the cabinet slightly"
             ]
-        }
+        },
+        "image_0": "ex_0167_0",
+        "image_1": "ex_0167_1"
     },
     {
         "id": 168,
-        "img_0": "ex_0168_0.png",
-        "img_1": "ex_0168_1.png",
         "caption_0": "a smartphone held by hand",
         "caption_1": "a smartphone propped up by a book",
         "dataset": "Ego4D",
@@ -3377,12 +3375,12 @@
                 "prop up the phone with the book, but it slips and tilts excessively",
                 "sandwich the phone between the book and the plant pot"
             ]
-        }
+        },
+        "image_0": "ex_0168_0",
+        "image_1": "ex_0168_1"
     },
     {
         "id": 169,
-        "img_0": "ex_0169_0.png",
-        "img_1": "ex_0169_1.png",
         "caption_0": "a closed wardrobe",
         "caption_1": "an opened wardrobe",
         "dataset": "Ego4D",
@@ -3397,12 +3395,12 @@
                 "slightly open the wardrobe",
                 "try to open the wardrobe, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0169_0",
+        "image_1": "ex_0169_1"
     },
     {
         "id": 170,
-        "img_0": "ex_0170_0.png",
-        "img_1": "ex_0170_1.png",
         "caption_0": "a hand away from faucet water",
         "caption_1": "a hand under running water ",
         "dataset": "Ego4D",
@@ -3417,12 +3415,12 @@
                 "move the hands to rinse the palms",
                 "move the hands to rinse the wrists"
             ]
-        }
+        },
+        "image_0": "ex_0170_0",
+        "image_1": "ex_0170_1"
     },
     {
         "id": 171,
-        "img_0": "ex_0171_0.png",
-        "img_1": "ex_0171_1.png",
         "caption_0": "an intact paper",
         "caption_1": "a paper torn into two pieces",
         "dataset": "Ego4D",
@@ -3437,12 +3435,12 @@
                 "tear the paper into two pieces",
                 "try to tear the paper, but it is too hard"
             ]
-        }
+        },
+        "image_0": "ex_0171_0",
+        "image_1": "ex_0171_1"
     },
     {
         "id": 172,
-        "img_0": "ex_0172_0.png",
-        "img_1": "ex_0172_1.png",
         "caption_0": "a car with the door fully opened",
         "caption_1": "a car with the door fully closed",
         "dataset": "Ego4D",
@@ -3457,12 +3455,12 @@
                 "close the door of the car slightly",
                 "completely close the door of the car"
             ]
-        }
+        },
+        "image_0": "ex_0172_0",
+        "image_1": "ex_0172_1"
     },
     {
         "id": 173,
-        "img_0": "ex_0173_0.png",
-        "img_1": "ex_0173_1.png",
         "caption_0": "a dustbin with the lid on",
         "caption_1": "a dustbin slightly opened",
         "dataset": "Ego4D",
@@ -3477,12 +3475,12 @@
                 "remove the lid of the dustbin",
                 "slightly open the dustbin"
             ]
-        }
+        },
+        "image_0": "ex_0173_0",
+        "image_1": "ex_0173_1"
     },
     {
         "id": 174,
-        "img_0": "ex_0174_0.png",
-        "img_1": "ex_0174_1.png",
         "caption_0": "a closed drawer",
         "caption_1": "an opened drawer",
         "dataset": "Ego4D",
@@ -3497,12 +3495,12 @@
                 "open the drawer just enough to insert a paper",
                 "slightly open the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0174_0",
+        "image_1": "ex_0174_1"
     },
     {
         "id": 175,
-        "img_0": "ex_0175_0.png",
-        "img_1": "ex_0175_1.png",
         "caption_0": "a fully rolled napkin",
         "caption_1": "a partially unrolled napkin",
         "dataset": "Ego4D",
@@ -3517,12 +3515,12 @@
                 "unroll the napkin by about 50cm",
                 "unroll the napkin by about 5cm"
             ]
-        }
+        },
+        "image_0": "ex_0175_0",
+        "image_1": "ex_0175_1"
     },
     {
         "id": 176,
-        "img_0": "ex_0176_0.png",
-        "img_1": "ex_0176_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -3537,12 +3535,12 @@
                 "slightly open the cabinet",
                 "try to open the cabinet, but it is too stiff to pull"
             ]
-        }
+        },
+        "image_0": "ex_0176_0",
+        "image_1": "ex_0176_1"
     },
     {
         "id": 177,
-        "img_0": "ex_0177_0.png",
-        "img_1": "ex_0177_1.png",
         "caption_0": "a plain tumbler",
         "caption_1": "a painted tumbler",
         "dataset": "Ego4D",
@@ -3557,12 +3555,12 @@
                 "paint the rim of the tumbler",
                 "paint the whole tumbler"
             ]
-        }
+        },
+        "image_0": "ex_0177_0",
+        "image_1": "ex_0177_1"
     },
     {
         "id": 178,
-        "img_0": "ex_0178_0.png",
-        "img_1": "ex_0178_1.png",
         "caption_0": "a clean paintbrush",
         "caption_1": "a paint-covered brush",
         "dataset": "Ego4D",
@@ -3577,12 +3575,12 @@
                 "dip the tip of the bristles in paint",
                 "dip the whole bristles of the brush in paint"
             ]
-        }
+        },
+        "image_0": "ex_0178_0",
+        "image_1": "ex_0178_1"
     },
     {
         "id": 179,
-        "img_0": "ex_0179_0.png",
-        "img_1": "ex_0179_1.png",
         "caption_0": "a circular clay",
         "caption_1": "a shaped clay",
         "dataset": "Ego4D",
@@ -3597,12 +3595,12 @@
                 "shape the clay into spiral",
                 "shape the clay into star shape"
             ]
-        }
+        },
+        "image_0": "ex_0179_0",
+        "image_1": "ex_0179_1"
     },
     {
         "id": 180,
-        "img_0": "ex_0180_0.png",
-        "img_1": "ex_0180_1.png",
         "caption_0": "a clay outside a light",
         "caption_1": "a clay under a light",
         "dataset": "Ego4D",
@@ -3617,12 +3615,12 @@
                 "move the light to illuminate the room",
                 "move the light to illuminate the table"
             ]
-        }
+        },
+        "image_0": "ex_0180_0",
+        "image_1": "ex_0180_1"
     },
     {
         "id": 181,
-        "img_0": "ex_0181_0.png",
-        "img_1": "ex_0181_1.png",
         "caption_0": "a person spreading the legs",
         "caption_1": "a person closing the legs",
         "dataset": "Ego4D",
@@ -3637,12 +3635,12 @@
                 "the person closes their legs until they are about twice the shoulder width apart",
                 "the person closes their legs until they return to a neutral position"
             ]
-        }
+        },
+        "image_0": "ex_0181_0",
+        "image_1": "ex_0181_1"
     },
     {
         "id": 182,
-        "img_0": "ex_0182_0.png",
-        "img_1": "ex_0182_1.png",
         "caption_0": "a fridge slightly opened",
         "caption_1": "a fridge completely closed",
         "dataset": "Ego4D",
@@ -3657,12 +3655,12 @@
                 "close the fridge slightly",
                 "keep the fridge closed"
             ]
-        }
+        },
+        "image_0": "ex_0182_0",
+        "image_1": "ex_0182_1"
     },
     {
         "id": 183,
-        "img_0": "ex_0183_0.png",
-        "img_1": "ex_0183_1.png",
         "caption_0": "a bag with a small hole",
         "caption_1": "a torn-open bag",
         "dataset": "Ego4D",
@@ -3677,12 +3675,12 @@
                 "tear the bag open slightly",
                 "try to tear the bag open, but it is too hard"
             ]
-        }
+        },
+        "image_0": "ex_0183_0",
+        "image_1": "ex_0183_1"
     },
     {
         "id": 184,
-        "img_0": "ex_0184_0.png",
-        "img_1": "ex_0184_1.png",
         "caption_0": "an unlit light",
         "caption_1": "a lit light",
         "dataset": "Ego4D",
@@ -3697,12 +3695,12 @@
                 "turn on the light enough to illuminate hands",
                 "turn on the light, but it does not shine"
             ]
-        }
+        },
+        "image_0": "ex_0184_0",
+        "image_1": "ex_0184_1"
     },
     {
         "id": 185,
-        "img_0": "ex_0185_0.png",
-        "img_1": "ex_0185_1.png",
         "caption_0": "a closed pack",
         "caption_1": "an opened pack",
         "dataset": "Ego4D",
@@ -3717,12 +3715,12 @@
                 "slightly open the pack",
                 "tear open the pack"
             ]
-        }
+        },
+        "image_0": "ex_0185_0",
+        "image_1": "ex_0185_1"
     },
     {
         "id": 186,
-        "img_0": "ex_0186_0.png",
-        "img_1": "ex_0186_1.png",
         "caption_0": "a slightly open drawer",
         "caption_1": "a drawer open enough to reach inside",
         "dataset": "Ego4D",
@@ -3737,12 +3735,12 @@
                 "open the drawer more to reach inside",
                 "open the drawer slightly"
             ]
-        }
+        },
+        "image_0": "ex_0186_0",
+        "image_1": "ex_0186_1"
     },
     {
         "id": 187,
-        "img_0": "ex_0187_0.png",
-        "img_1": "ex_0187_1.png",
         "caption_0": "a drill with a bit",
         "caption_1": "a drill without a bit",
         "dataset": "Ego4D",
@@ -3757,12 +3755,12 @@
                 "partially detach the bit from the drill",
                 "try to detach the bit, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0187_0",
+        "image_1": "ex_0187_1"
     },
     {
         "id": 188,
-        "img_0": "ex_0188_0.png",
-        "img_1": "ex_0188_1.png",
         "caption_0": "a closed toolbox",
         "caption_1": "an opened toolbox",
         "dataset": "Ego4D",
@@ -3777,12 +3775,12 @@
                 "remove the lid to open the toolbox",
                 "slightly open the toolbox"
             ]
-        }
+        },
+        "image_0": "ex_0188_0",
+        "image_1": "ex_0188_1"
     },
     {
         "id": 189,
-        "img_0": "ex_0189_0.png",
-        "img_1": "ex_0189_1.png",
         "caption_0": "a wood with no holes",
         "caption_1": "a wood that is being drilled",
         "dataset": "Ego4D",
@@ -3797,12 +3795,12 @@
                 "slightly drill the wood",
                 "try to drill the wood, but it is too hard"
             ]
-        }
+        },
+        "image_0": "ex_0189_0",
+        "image_1": "ex_0189_1"
     },
     {
         "id": 190,
-        "img_0": "ex_0190_0.png",
-        "img_1": "ex_0190_1.png",
         "caption_0": "partially cut wood",
         "caption_1": "fully cut wood",
         "dataset": "Ego4D",
@@ -3817,12 +3815,12 @@
                 "finish cutting the wood",
                 "slightly cut the wood"
             ]
-        }
+        },
+        "image_0": "ex_0190_0",
+        "image_1": "ex_0190_1"
     },
     {
         "id": 191,
-        "img_0": "ex_0191_0.png",
-        "img_1": "ex_0191_1.png",
         "caption_0": "intact wood",
         "caption_1": "partially cut wood",
         "dataset": "Ego4D",
@@ -3837,12 +3835,12 @@
                 "partially cut the wood",
                 "try to cut the wood, but it is too hard"
             ]
-        }
+        },
+        "image_0": "ex_0191_0",
+        "image_1": "ex_0191_1"
     },
     {
         "id": 192,
-        "img_0": "ex_0192_0.png",
-        "img_1": "ex_0192_1.png",
         "caption_0": "a tape measure extended by about 30 cm",
         "caption_1": "a tape measure extended by about 130 cm",
         "dataset": "Ego4D",
@@ -3857,12 +3855,12 @@
                 "extend the tape measure to about four times its length",
                 "extend the tape measure to about two times its length"
             ]
-        }
+        },
+        "image_0": "ex_0192_0",
+        "image_1": "ex_0192_1"
     },
     {
         "id": 193,
-        "img_0": "ex_0193_0.png",
-        "img_1": "ex_0193_1.png",
         "caption_0": "a clamp holding vertically",
         "caption_1": "a clamp holding horizontally",
         "dataset": "Ego4D",
@@ -3877,12 +3875,12 @@
                 "reposition the vise onto the desk leg, but it is loose and slides down",
                 "reposition the vise onto the desk leg, but it is slightly loose"
             ]
-        }
+        },
+        "image_0": "ex_0193_0",
+        "image_1": "ex_0193_1"
     },
     {
         "id": 194,
-        "img_0": "ex_0194_0.png",
-        "img_1": "ex_0194_1.png",
         "caption_0": "a drill with the light on",
         "caption_1": "a drill with the light off",
         "dataset": "Ego4D",
@@ -3897,12 +3895,12 @@
                 "dim the light of the drill until it is almost off",
                 "slightly dim the light of the drill"
             ]
-        }
+        },
+        "image_0": "ex_0194_0",
+        "image_1": "ex_0194_1"
     },
     {
         "id": 195,
-        "img_0": "ex_0195_0.png",
-        "img_1": "ex_0195_1.png",
         "caption_0": "an unlit gas stove",
         "caption_1": "a lit gas stove",
         "dataset": "Ego4D",
@@ -3917,12 +3915,12 @@
                 "turn on the gas stove to low heat",
                 "turn on the gas stove to middle heat"
             ]
-        }
+        },
+        "image_0": "ex_0195_0",
+        "image_1": "ex_0195_1"
     },
     {
         "id": 196,
-        "img_0": "ex_0196_0.png",
-        "img_1": "ex_0196_1.png",
         "caption_0": "a flame too large for the pot",
         "caption_1": "a flame just right for the pot ",
         "dataset": "Ego4D",
@@ -3937,12 +3935,12 @@
                 "adjust the gas stove to middle heat",
                 "turn off the gas stove"
             ]
-        }
+        },
+        "image_0": "ex_0196_0",
+        "image_1": "ex_0196_1"
     },
     {
         "id": 197,
-        "img_0": "ex_0197_0.png",
-        "img_1": "ex_0197_1.png",
         "caption_0": "a microwave not in use",
         "caption_1": "a microwave in use",
         "dataset": "Ego4D",
@@ -3957,12 +3955,12 @@
                 "start the microwave",
                 "stop the microwave"
             ]
-        }
+        },
+        "image_0": "ex_0197_0",
+        "image_1": "ex_0197_1"
     },
     {
         "id": 198,
-        "img_0": "ex_0198_0.png",
-        "img_1": "ex_0198_1.png",
         "caption_0": "a faucet not in use",
         "caption_1": "a faucet in use",
         "dataset": "Ego4D",
@@ -3977,12 +3975,12 @@
                 "turn on the tap to middle flow",
                 "turn on the tap, but no water come out"
             ]
-        }
+        },
+        "image_0": "ex_0198_0",
+        "image_1": "ex_0198_1"
     },
     {
         "id": 199,
-        "img_0": "ex_0199_0.png",
-        "img_1": "ex_0199_1.png",
         "caption_0": "a wrapped bowl of rice",
         "caption_1": "an unwrapped bowl of rice",
         "dataset": "Ego4D",
@@ -3997,12 +3995,12 @@
                 "slightly unwrap the bowl of rice",
                 "unwrap the bowl of rice halfway"
             ]
-        }
+        },
+        "image_0": "ex_0199_0",
+        "image_1": "ex_0199_1"
     },
     {
         "id": 200,
-        "img_0": "ex_0200_0.png",
-        "img_1": "ex_0200_1.png",
         "caption_0": "a plain tape",
         "caption_1": "a tape with marking",
         "dataset": "Ego4D",
@@ -4017,12 +4015,12 @@
                 "mark the tape with lines",
                 "mark the tape with triangles"
             ]
-        }
+        },
+        "image_0": "ex_0200_0",
+        "image_1": "ex_0200_1"
     },
     {
         "id": 201,
-        "img_0": "ex_0201_0.png",
-        "img_1": "ex_0201_1.png",
         "caption_0": "a partially peeled tape",
         "caption_1": "a fully peeled tape",
         "dataset": "Ego4D",
@@ -4037,12 +4035,12 @@
                 "peel the tape halfway",
                 "slightly peel the tape"
             ]
-        }
+        },
+        "image_0": "ex_0201_0",
+        "image_1": "ex_0201_1"
     },
     {
         "id": 202,
-        "img_0": "ex_0202_0.png",
-        "img_1": "ex_0202_1.png",
         "caption_0": "a table with no holes",
         "caption_1": "a table with holes",
         "dataset": "Ego4D",
@@ -4057,12 +4055,12 @@
                 "make some holes in the table just large enough for a hand to pass through",
                 "make some holes in the table just large enough for a pencil to pass through"
             ]
-        }
+        },
+        "image_0": "ex_0202_0",
+        "image_1": "ex_0202_1"
     },
     {
         "id": 203,
-        "img_0": "ex_0203_0.png",
-        "img_1": "ex_0203_1.png",
         "caption_0": "a table with holes",
         "caption_1": "a table with a wire through it",
         "dataset": "Ego4D",
@@ -4077,12 +4075,12 @@
                 "place the wires near the hole",
                 "thread the wires halfway through the hole"
             ]
-        }
+        },
+        "image_0": "ex_0203_0",
+        "image_1": "ex_0203_1"
     },
     {
         "id": 204,
-        "img_0": "ex_0204_0.png",
-        "img_1": "ex_0204_1.png",
         "caption_0": "a bathroom door closed",
         "caption_1": "a bathroom door open",
         "dataset": "Ego4D",
@@ -4097,12 +4095,12 @@
                 "open the door slightly",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0204_0",
+        "image_1": "ex_0204_1"
     },
     {
         "id": 205,
-        "img_0": "ex_0205_0.png",
-        "img_1": "ex_0205_1.png",
         "caption_0": "a tap closed",
         "caption_1": "a tap open",
         "dataset": "Ego4D",
@@ -4117,12 +4115,12 @@
                 "run the tap to low flow",
                 "run the tap to moderate flow"
             ]
-        }
+        },
+        "image_0": "ex_0205_0",
+        "image_1": "ex_0205_1"
     },
     {
         "id": 206,
-        "img_0": "ex_0206_0.png",
-        "img_1": "ex_0206_1.png",
         "caption_0": "a mop without any cloth",
         "caption_1": "a mop with a cloth attached",
         "dataset": "Ego4D",
@@ -4137,12 +4135,12 @@
                 "put the mop on the cloth",
                 "securely attach the cloth to the mop"
             ]
-        }
+        },
+        "image_0": "ex_0206_0",
+        "image_1": "ex_0206_1"
     },
     {
         "id": 207,
-        "img_0": "ex_0207_0.png",
-        "img_1": "ex_0207_1.png",
         "caption_0": "clean floor",
         "caption_1": "detergent-covered floor",
         "dataset": "Ego4D",
@@ -4157,12 +4155,12 @@
                 "pour detergent haphazardly on the floor",
                 "pour detergent to cover the entire floor"
             ]
-        }
+        },
+        "image_0": "ex_0207_0",
+        "image_1": "ex_0207_1"
     },
     {
         "id": 208,
-        "img_0": "ex_0208_0.png",
-        "img_1": "ex_0208_1.png",
         "caption_0": "a closed gate",
         "caption_1": "an open gate",
         "dataset": "Ego4D",
@@ -4177,12 +4175,12 @@
                 "open the gate just enough to pass through",
                 "open the gate slightly"
             ]
-        }
+        },
+        "image_0": "ex_0208_0",
+        "image_1": "ex_0208_1"
     },
     {
         "id": 209,
-        "img_0": "ex_0209_0.png",
-        "img_1": "ex_0209_1.png",
         "caption_0": "a packed coffee creamer",
         "caption_1": "an open coffee creamer",
         "dataset": "Ego4D",
@@ -4197,12 +4195,12 @@
                 "open the coffee creamer halfway",
                 "slightly open the coffee creamer"
             ]
-        }
+        },
+        "image_0": "ex_0209_0",
+        "image_1": "ex_0209_1"
     },
     {
         "id": 210,
-        "img_0": "ex_0210_0.png",
-        "img_1": "ex_0210_1.png",
         "caption_0": "a slightly open door",
         "caption_1": "a fully open door",
         "dataset": "Ego4D",
@@ -4217,12 +4215,12 @@
                 "slightly open the door that is closed",
                 "slightly open the door that is halfway open"
             ]
-        }
+        },
+        "image_0": "ex_0210_0",
+        "image_1": "ex_0210_1"
     },
     {
         "id": 211,
-        "img_0": "ex_0211_0.png",
-        "img_1": "ex_0211_1.png",
         "caption_0": "cards being aligned",
         "caption_1": "cards being shuffled",
         "dataset": "Ego4D",
@@ -4237,12 +4235,12 @@
                 "mostly overlap the cards to perform a riffle shuffle",
                 "partially overlap the cards to perform a riffle shuffle"
             ]
-        }
+        },
+        "image_0": "ex_0211_0",
+        "image_1": "ex_0211_1"
     },
     {
         "id": 212,
-        "img_0": "ex_0212_0.png",
-        "img_1": "ex_0212_1.png",
         "caption_0": "an open book",
         "caption_1": "a closed book",
         "dataset": "Ego4D",
@@ -4257,12 +4255,12 @@
                 "partially close the book",
                 "totally close the book"
             ]
-        }
+        },
+        "image_0": "ex_0212_0",
+        "image_1": "ex_0212_1"
     },
     {
         "id": 213,
-        "img_0": "ex_0213_0.png",
-        "img_1": "ex_0213_1.png",
         "caption_0": "a closed sketchbook",
         "caption_1": "an open sketchbook",
         "dataset": "Ego4D",
@@ -4277,12 +4275,12 @@
                 "open the sketchbook halfway",
                 "slightly open the sketchbook"
             ]
-        }
+        },
+        "image_0": "ex_0213_0",
+        "image_1": "ex_0213_1"
     },
     {
         "id": 214,
-        "img_0": "ex_0214_0.png",
-        "img_1": "ex_0214_1.png",
         "caption_0": "a being pinched sketchbook",
         "caption_1": "a being flipped sketchbook",
         "dataset": "Ego4D",
@@ -4297,12 +4295,12 @@
                 "lift the page of the sketchbook to flip it",
                 "pinch the page of the sketchbook to flip it"
             ]
-        }
+        },
+        "image_0": "ex_0214_0",
+        "image_1": "ex_0214_1"
     },
     {
         "id": 215,
-        "img_0": "ex_0215_0.png",
-        "img_1": "ex_0215_1.png",
         "caption_0": "a blank sketchbook",
         "caption_1": "a sketchbook with illustrations",
         "dataset": "Ego4D",
@@ -4317,12 +4315,12 @@
                 "fill half of the sketchbook page with illustrations",
                 "fill the sketchbook page with illustrations until there is no more space"
             ]
-        }
+        },
+        "image_0": "ex_0215_0",
+        "image_1": "ex_0215_1"
     },
     {
         "id": 216,
-        "img_0": "ex_0216_0.png",
-        "img_1": "ex_0216_1.png",
         "caption_0": "a bare right hand",
         "caption_1": "a gloved right hand",
         "dataset": "Ego4D",
@@ -4337,12 +4335,12 @@
                 "glove the right hand until it just cover the whole hand",
                 "glove the right hand until it just cover the wrist"
             ]
-        }
+        },
+        "image_0": "ex_0216_0",
+        "image_1": "ex_0216_1"
     },
     {
         "id": 217,
-        "img_0": "ex_0217_0.png",
-        "img_1": "ex_0217_1.png",
         "caption_0": "a gripped brake",
         "caption_1": "a released brake",
         "dataset": "Ego4D",
@@ -4357,12 +4355,12 @@
                 "release the brake halfway",
                 "slightly release the brake"
             ]
-        }
+        },
+        "image_0": "ex_0217_0",
+        "image_1": "ex_0217_1"
     },
     {
         "id": 218,
-        "img_0": "ex_0218_0.png",
-        "img_1": "ex_0218_1.png",
         "caption_0": "a slightly open box",
         "caption_1": "a closed box",
         "dataset": "Ego4D",
@@ -4377,12 +4375,12 @@
                 "hold the lid to keep the box closed",
                 "slightly close the box that is halfway open"
             ]
-        }
+        },
+        "image_0": "ex_0218_0",
+        "image_1": "ex_0218_1"
     },
     {
         "id": 219,
-        "img_0": "ex_0219_0.png",
-        "img_1": "ex_0219_1.png",
         "caption_0": "a slightly open refrigerator",
         "caption_1": "an opened refrigerator",
         "dataset": "Ego4D",
@@ -4397,12 +4395,12 @@
                 "mostly open the refrigerator that is slightly open",
                 "slightly open the refrigerator that is closed"
             ]
-        }
+        },
+        "image_0": "ex_0219_0",
+        "image_1": "ex_0219_1"
     },
     {
         "id": 220,
-        "img_0": "ex_0220_0.png",
-        "img_1": "ex_0220_1.png",
         "caption_0": "an empty bowl",
         "caption_1": "a bowl filled with liquid",
         "dataset": "Ego4D",
@@ -4417,12 +4415,12 @@
                 "pour half of the batter from the blender into the bowl",
                 "pour most of the batter from the blender into the bowl"
             ]
-        }
+        },
+        "image_0": "ex_0220_0",
+        "image_1": "ex_0220_1"
     },
     {
         "id": 221,
-        "img_0": "ex_0221_0.png",
-        "img_1": "ex_0221_1.png",
         "caption_0": "a smartphone in sleep screen",
         "caption_1": "a smartphone in lock screen",
         "dataset": "Ego4D",
@@ -4437,12 +4435,12 @@
                 "wake up and unlock the smartphone",
                 "wake up the smartphone, but it goes to the lock screen"
             ]
-        }
+        },
+        "image_0": "ex_0221_0",
+        "image_1": "ex_0221_1"
     },
     {
         "id": 222,
-        "img_0": "ex_0222_0.png",
-        "img_1": "ex_0222_1.png",
         "caption_0": "an empty spoon",
         "caption_1": "a spoon with sugar",
         "dataset": "Ego4D",
@@ -4457,12 +4455,12 @@
                 "scoop a spoonful of sugar",
                 "scoop half a spoon of sugar"
             ]
-        }
+        },
+        "image_0": "ex_0222_0",
+        "image_1": "ex_0222_1"
     },
     {
         "id": 223,
-        "img_0": "ex_0223_0.png",
-        "img_1": "ex_0223_1.png",
         "caption_0": "solid sugar",
         "caption_1": "melting sugar",
         "dataset": "Ego4D",
@@ -4477,12 +4475,12 @@
                 "mostly melt sugar in the pan",
                 "partially melt sugar in the pan"
             ]
-        }
+        },
+        "image_0": "ex_0223_0",
+        "image_1": "ex_0223_1"
     },
     {
         "id": 224,
-        "img_0": "ex_0224_0.png",
-        "img_1": "ex_0224_1.png",
         "caption_0": "a glass with detergent",
         "caption_1": "a clean glass",
         "dataset": "Ego4D",
@@ -4497,12 +4495,12 @@
                 "partially rinse the glass",
                 "rinse the glass halfway"
             ]
-        }
+        },
+        "image_0": "ex_0224_0",
+        "image_1": "ex_0224_1"
     },
     {
         "id": 225,
-        "img_0": "ex_0225_0.png",
-        "img_1": "ex_0225_1.png",
         "caption_0": "a glass with grains",
         "caption_1": "a glass with powder",
         "dataset": "Ego4D",
@@ -4517,12 +4515,12 @@
                 "grind the beans using the blender halfway",
                 "partially grind the beans using the blender"
             ]
-        }
+        },
+        "image_0": "ex_0225_0",
+        "image_1": "ex_0225_1"
     },
     {
         "id": 226,
-        "img_0": "ex_0226_0.png",
-        "img_1": "ex_0226_1.png",
         "caption_0": "raw pancakes",
         "caption_1": "cooked pancakes",
         "dataset": "Ego4D",
@@ -4537,12 +4535,12 @@
                 "cook the half-cooked pancakes but still raw on the surface",
                 "cook the half-cooked pancakes until they are done"
             ]
-        }
+        },
+        "image_0": "ex_0226_0",
+        "image_1": "ex_0226_1"
     },
     {
         "id": 227,
-        "img_0": "ex_0227_0.png",
-        "img_1": "ex_0227_1.png",
         "caption_0": "unlit candles",
         "caption_1": "lit candles",
         "dataset": "Ego4D",
@@ -4557,12 +4555,12 @@
                 "light the candles with a roaring flame",
                 "light the candles with a steady flame"
             ]
-        }
+        },
+        "image_0": "ex_0227_0",
+        "image_1": "ex_0227_1"
     },
     {
         "id": 228,
-        "img_0": "ex_0228_0.png",
-        "img_1": "ex_0228_1.png",
         "caption_0": "dry eggplants",
         "caption_1": "rinsed eggplants",
         "dataset": "Ego4D",
@@ -4577,12 +4575,12 @@
                 "rinse the stem of one of the eggplants",
                 "rinse the stems of both the eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0228_0",
+        "image_1": "ex_0228_1"
     },
     {
         "id": 229,
-        "img_0": "ex_0229_0.png",
-        "img_1": "ex_0229_1.png",
         "caption_0": "eggplants with their stem",
         "caption_1": "eggplants with their stem removed",
         "dataset": "Ego4D",
@@ -4597,12 +4595,12 @@
                 "remove the stems of both the eggplants",
                 "remove the stems of one of the eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0229_0",
+        "image_1": "ex_0229_1"
     },
     {
         "id": 230,
-        "img_0": "ex_0230_0.png",
-        "img_1": "ex_0230_1.png",
         "caption_0": "an off microwave",
         "caption_1": "a microwave in use",
         "dataset": "Ego4D",
@@ -4617,12 +4615,12 @@
                 "push the button to start the microwave",
                 "push the button to stop the microwave"
             ]
-        }
+        },
+        "image_0": "ex_0230_0",
+        "image_1": "ex_0230_1"
     },
     {
         "id": 231,
-        "img_0": "ex_0231_0.png",
-        "img_1": "ex_0231_1.png",
         "caption_0": "a pan without oil",
         "caption_1": "a pan greased with oil",
         "dataset": "Ego4D",
@@ -4637,12 +4635,12 @@
                 "pour oil into the pan until it is almost full",
                 "pour oil into the pan until it is half full"
             ]
-        }
+        },
+        "image_0": "ex_0231_0",
+        "image_1": "ex_0231_1"
     },
     {
         "id": 232,
-        "img_0": "ex_0232_0.png",
-        "img_1": "ex_0232_1.png",
         "caption_0": "dry eggplants",
         "caption_1": "submerged eggplants",
         "dataset": "Ego4D",
@@ -4657,12 +4655,12 @@
                 "pour water into the pan until it is half full",
                 "pout water into the pan until it just covers the eggplants"
             ]
-        }
+        },
+        "image_0": "ex_0232_0",
+        "image_1": "ex_0232_1"
     },
     {
         "id": 233,
-        "img_0": "ex_0233_0.png",
-        "img_1": "ex_0233_1.png",
         "caption_0": "skin-side down eggplants",
         "caption_1": "skin-side up eggplants",
         "dataset": "Ego4D",
@@ -4677,12 +4675,12 @@
                 "flip most the eggplants skin-side up",
                 "flip the browned eggplants skin-side up"
             ]
-        }
+        },
+        "image_0": "ex_0233_0",
+        "image_1": "ex_0233_1"
     },
     {
         "id": 234,
-        "img_0": "ex_0234_0.png",
-        "img_1": "ex_0234_1.png",
         "caption_0": "an unmixed egg",
         "caption_1": "a mixed egg",
         "dataset": "Ego4D",
@@ -4697,12 +4695,12 @@
                 "stir the eggs lightly",
                 "stir the eggs moderately"
             ]
-        }
+        },
+        "image_0": "ex_0234_0",
+        "image_1": "ex_0234_1"
     },
     {
         "id": 235,
-        "img_0": "ex_0235_0.png",
-        "img_1": "ex_0235_1.png",
         "caption_0": "a table with remained detergent",
         "caption_1": "a clean table",
         "dataset": "Ego4D",
@@ -4717,12 +4715,12 @@
                 "wipe the remained detergent on the table",
                 "wipe the whole table"
             ]
-        }
+        },
+        "image_0": "ex_0235_0",
+        "image_1": "ex_0235_1"
     },
     {
         "id": 236,
-        "img_0": "ex_0236_0.png",
-        "img_1": "ex_0236_1.png",
         "caption_0": "a dirty table",
         "caption_1": "a clean table",
         "dataset": "Ego4D",
@@ -4737,12 +4735,12 @@
                 "wipe the table except for the place where are objects",
                 "wipe the whole table"
             ]
-        }
+        },
+        "image_0": "ex_0236_0",
+        "image_1": "ex_0236_1"
     },
     {
         "id": 237,
-        "img_0": "ex_0237_0.png",
-        "img_1": "ex_0237_1.png",
         "caption_0": "wiping cloth partially torn",
         "caption_1": "wiping cloth fully torn apart",
         "dataset": "Ego4D",
@@ -4757,12 +4755,12 @@
                 "lift the cloth",
                 "partialley tear apart the unrolled cloth"
             ]
-        }
+        },
+        "image_0": "ex_0237_0",
+        "image_1": "ex_0237_1"
     },
     {
         "id": 238,
-        "img_0": "ex_0238_0.png",
-        "img_1": "ex_0238_1.png",
         "caption_0": "a constructed box",
         "caption_1": "a crushed box",
         "dataset": "Ego4D",
@@ -4777,12 +4775,12 @@
                 "crush and open the box",
                 "partially crush the box"
             ]
-        }
+        },
+        "image_0": "ex_0238_0",
+        "image_1": "ex_0238_1"
     },
     {
         "id": 239,
-        "img_0": "ex_0239_0.png",
-        "img_1": "ex_0239_1.png",
         "caption_0": "an open garbage bag",
         "caption_1": "a tied garbage bag",
         "dataset": "Ego4D",
@@ -4797,12 +4795,12 @@
                 "securely tie the garbage bag",
                 "securely tie the garbage bag two times"
             ]
-        }
+        },
+        "image_0": "ex_0239_0",
+        "image_1": "ex_0239_1"
     },
     {
         "id": 240,
-        "img_0": "ex_0240_0.png",
-        "img_1": "ex_0240_1.png",
         "caption_0": "an empty garbage bin",
         "caption_1": "a garbage bin with a bag in",
         "dataset": "Ego4D",
@@ -4817,12 +4815,12 @@
                 "securely set the garbage bag in the dustbin",
                 "softly set the garbage bag in the dustbin"
             ]
-        }
+        },
+        "image_0": "ex_0240_0",
+        "image_1": "ex_0240_1"
     },
     {
         "id": 241,
-        "img_0": "ex_0241_0.png",
-        "img_1": "ex_0241_1.png",
         "caption_0": "a vacuum cleaner with its lid closed",
         "caption_1": "a vacuum cleaner with its lid open",
         "dataset": "Ego4D",
@@ -4837,12 +4835,12 @@
                 "slightly open the lid of the vacuum cleaner",
                 "try to open the lid of the vacuum cleaner, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0241_0",
+        "image_1": "ex_0241_1"
     },
     {
         "id": 242,
-        "img_0": "ex_0242_0.png",
-        "img_1": "ex_0242_1.png",
         "caption_0": "a closed window",
         "caption_1": "an open window",
         "dataset": "Ego4D",
@@ -4857,12 +4855,12 @@
                 "open the window slightly",
                 "try to open the window, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0242_0",
+        "image_1": "ex_0242_1"
     },
     {
         "id": 243,
-        "img_0": "ex_0243_0.png",
-        "img_1": "ex_0243_1.png",
         "caption_0": "peeled-off cloth",
         "caption_1": "adhered cloth",
         "dataset": "Ego4D",
@@ -4877,12 +4875,12 @@
                 "softly adhere the cloth",
                 "tightly adhere the cloth"
             ]
-        }
+        },
+        "image_0": "ex_0243_0",
+        "image_1": "ex_0243_1"
     },
     {
         "id": 244,
-        "img_0": "ex_0244_0.png",
-        "img_1": "ex_0244_1.png",
         "caption_0": "screen displaying loading animation",
         "caption_1": "screen displaying a bowling score board",
         "dataset": "Ego4D",
@@ -4897,12 +4895,12 @@
                 "the display starts loading",
                 "the display turns on"
             ]
-        }
+        },
+        "image_0": "ex_0244_0",
+        "image_1": "ex_0244_1"
     },
     {
         "id": 245,
-        "img_0": "ex_0245_0.png",
-        "img_1": "ex_0245_1.png",
         "caption_0": "uncut loaves",
         "caption_1": "loaves with a vertical slit",
         "dataset": "Ego4D",
@@ -4917,12 +4915,12 @@
                 "make a vartical slit in half of the loaves",
                 "make a vartical slit in one loaf"
             ]
-        }
+        },
+        "image_0": "ex_0245_0",
+        "image_1": "ex_0245_1"
     },
     {
         "id": 246,
-        "img_0": "ex_0246_0.png",
-        "img_1": "ex_0246_1.png",
         "caption_0": "intact chillies",
         "caption_1": "chopped chillies",
         "dataset": "Ego4D",
@@ -4937,12 +4935,12 @@
                 "chop the chillies into pieces about the size of an eraser",
                 "mince the chillies"
             ]
-        }
+        },
+        "image_0": "ex_0246_0",
+        "image_1": "ex_0246_1"
     },
     {
         "id": 247,
-        "img_0": "ex_0247_0.png",
-        "img_1": "ex_0247_1.png",
         "caption_0": "sandwiches with a blob of mustard",
         "caption_1": "sandwiches with spread mustard",
         "dataset": "Ego4D",
@@ -4957,12 +4955,12 @@
                 "spread the mustard halfway on meat",
                 "spread the mustard lightly on the meat"
             ]
-        }
+        },
+        "image_0": "ex_0247_0",
+        "image_1": "ex_0247_1"
     },
     {
         "id": 248,
-        "img_0": "ex_0248_0.png",
-        "img_1": "ex_0248_1.png",
         "caption_0": "sandwiches with only meat",
         "caption_1": "sandwiches with meat and vegetables",
         "dataset": "Ego4D",
@@ -4977,12 +4975,12 @@
                 "put heaping vegetables on the sandwiches",
                 "put vegetables on the sandwiches until they are covered"
             ]
-        }
+        },
+        "image_0": "ex_0248_0",
+        "image_1": "ex_0248_1"
     },
     {
         "id": 249,
-        "img_0": "ex_0249_0.png",
-        "img_1": "ex_0249_1.png",
         "caption_0": "an empty pot",
         "caption_1": "a pot with water",
         "dataset": "Ego4D",
@@ -4997,12 +4995,12 @@
                 "pour water into the pot until it covers the bottom",
                 "put a few drops of water into the pot"
             ]
-        }
+        },
+        "image_0": "ex_0249_0",
+        "image_1": "ex_0249_1"
     },
     {
         "id": 250,
-        "img_0": "ex_0250_0.png",
-        "img_1": "ex_0250_1.png",
         "caption_0": "an intact egg",
         "caption_1": "a cracked egg",
         "dataset": "Ego4D",
@@ -5017,12 +5015,12 @@
                 "crack and open the intact egg",
                 "try to open the cracked egg, but it is broken"
             ]
-        }
+        },
+        "image_0": "ex_0250_0",
+        "image_1": "ex_0250_1"
     },
     {
         "id": 251,
-        "img_0": "ex_0251_0.png",
-        "img_1": "ex_0251_1.png",
         "caption_0": "an unbeaten egg",
         "caption_1": "a beaten egg",
         "dataset": "Ego4D",
@@ -5037,12 +5035,12 @@
                 "stir the egg lightly",
                 "stir the egg moderately"
             ]
-        }
+        },
+        "image_0": "ex_0251_0",
+        "image_1": "ex_0251_1"
     },
     {
         "id": 252,
-        "img_0": "ex_0252_0.png",
-        "img_1": "ex_0252_1.png",
         "caption_0": "liquid egg",
         "caption_1": "almost set egg",
         "dataset": "Ego4D",
@@ -5057,12 +5055,12 @@
                 "cook the egg, but it is still liquid",
                 "softly cook the egg"
             ]
-        }
+        },
+        "image_0": "ex_0252_0",
+        "image_1": "ex_0252_1"
     },
     {
         "id": 253,
-        "img_0": "ex_0253_0.png",
-        "img_1": "ex_0253_1.png",
         "caption_0": "unseasoned fried rice",
         "caption_1": "seasoned fried rice",
         "dataset": "Ego4D",
@@ -5077,12 +5075,12 @@
                 "season the rice with seasoning for fried rice",
                 "season the rice with seaweed"
             ]
-        }
+        },
+        "image_0": "ex_0253_0",
+        "image_1": "ex_0253_1"
     },
     {
         "id": 254,
-        "img_0": "ex_0254_0.png",
-        "img_1": "ex_0254_1.png",
         "caption_0": "instant ramen still hard",
         "caption_1": "instant ramen fully cooked",
         "dataset": "Ego4D",
@@ -5097,12 +5095,12 @@
                 "boil the ramen until it just loses the shape",
                 "boil the ramen until you can cut it with chopsticks"
             ]
-        }
+        },
+        "image_0": "ex_0254_0",
+        "image_1": "ex_0254_1"
     },
     {
         "id": 255,
-        "img_0": "ex_0255_0.png",
-        "img_1": "ex_0255_1.png",
         "caption_0": "in a car with the engine off",
         "caption_1": "in a car with the engine running",
         "dataset": "Ego4D",
@@ -5117,12 +5115,12 @@
                 "shift into drive",
                 "turn on the engine"
             ]
-        }
+        },
+        "image_0": "ex_0255_0",
+        "image_1": "ex_0255_1"
     },
     {
         "id": 256,
-        "img_0": "ex_0256_0.png",
-        "img_1": "ex_0256_1.png",
         "caption_0": "white carrots with its stem",
         "caption_1": "white carrots without its stem",
         "dataset": "Ego4D",
@@ -5137,12 +5135,12 @@
                 "cut the white carrots into two pieces",
                 "slice the white carrots"
             ]
-        }
+        },
+        "image_0": "ex_0256_0",
+        "image_1": "ex_0256_1"
     },
     {
         "id": 257,
-        "img_0": "ex_0257_0.png",
-        "img_1": "ex_0257_1.png",
         "caption_0": "white radishes being sliced",
         "caption_1": "white radishes fully sliced",
         "dataset": "Ego4D",
@@ -5157,12 +5155,12 @@
                 "start mincing the sliced radishes",
                 "start slicing the white radishes"
             ]
-        }
+        },
+        "image_0": "ex_0257_0",
+        "image_1": "ex_0257_1"
     },
     {
         "id": 258,
-        "img_0": "ex_0258_0.png",
-        "img_1": "ex_0258_1.png",
         "caption_0": "whole peppers",
         "caption_1": "chopped peppers",
         "dataset": "Ego4D",
@@ -5177,12 +5175,12 @@
                 "cut peppers into two pieces",
                 "mince peppers"
             ]
-        }
+        },
+        "image_0": "ex_0258_0",
+        "image_1": "ex_0258_1"
     },
     {
         "id": 259,
-        "img_0": "ex_0259_0.png",
-        "img_1": "ex_0259_1.png",
         "caption_0": "a head of cabbage",
         "caption_1": "pieces of peeled cabbage",
         "dataset": "Ego4D",
@@ -5197,12 +5195,12 @@
                 "tear a leaf of the cabbage into pieces about the size of a palm",
                 "tear a leaf of the cabbage into two pieces"
             ]
-        }
+        },
+        "image_0": "ex_0259_0",
+        "image_1": "ex_0259_1"
     },
     {
         "id": 260,
-        "img_0": "ex_0260_0.png",
-        "img_1": "ex_0260_1.png",
         "caption_0": "pieces of garlic with its peel",
         "caption_1": "pieces of peeled garlic",
         "dataset": "Ego4D",
@@ -5217,12 +5215,12 @@
                 "peel half of the garlics",
                 "peel one of the garlics"
             ]
-        }
+        },
+        "image_0": "ex_0260_0",
+        "image_1": "ex_0260_1"
     },
     {
         "id": 261,
-        "img_0": "ex_0261_0.png",
-        "img_1": "ex_0261_1.png",
         "caption_0": "dry rice",
         "caption_1": "soaked rice",
         "dataset": "Ego4D",
@@ -5237,12 +5235,12 @@
                 "pour water to wet the rice",
                 "pour water until it just covers the rice in the pot"
             ]
-        }
+        },
+        "image_0": "ex_0261_0",
+        "image_1": "ex_0261_1"
     },
     {
         "id": 262,
-        "img_0": "ex_0262_0.png",
-        "img_1": "ex_0262_1.png",
         "caption_0": "plain white radish",
         "caption_1": "seasoned white radish",
         "dataset": "Ego4D",
@@ -5257,12 +5255,12 @@
                 "season the white radish slices with sauce",
                 "season the white radish slices with sugar"
             ]
-        }
+        },
+        "image_0": "ex_0262_0",
+        "image_1": "ex_0262_1"
     },
     {
         "id": 263,
-        "img_0": "ex_0263_0.png",
-        "img_1": "ex_0263_1.png",
         "caption_0": "a bottle with its lid on",
         "caption_1": "a bottle with its lid off",
         "dataset": "Ego4D",
@@ -5277,12 +5275,12 @@
                 "rotate the lid of the bottle",
                 "try to rotate the lid of the bottle, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0263_0",
+        "image_1": "ex_0263_1"
     },
     {
         "id": 264,
-        "img_0": "ex_0264_0.png",
-        "img_1": "ex_0264_1.png",
         "caption_0": "a slightly open drawer",
         "caption_1": "a fully open drawer",
         "dataset": "Ego4D",
@@ -5297,12 +5295,12 @@
                 "open the slightly open drawer halfway",
                 "slightly open the drawer"
             ]
-        }
+        },
+        "image_0": "ex_0264_0",
+        "image_1": "ex_0264_1"
     },
     {
         "id": 265,
-        "img_0": "ex_0265_0.png",
-        "img_1": "ex_0265_1.png",
         "caption_0": "banknotes spread out like a fan",
         "caption_1": "neatly arranged banknotes",
         "dataset": "Ego4D",
@@ -5317,12 +5315,12 @@
                 "arrange the banknotes neatly",
                 "arrange the banknotes roughly"
             ]
-        }
+        },
+        "image_0": "ex_0265_0",
+        "image_1": "ex_0265_1"
     },
     {
         "id": 266,
-        "img_0": "ex_0266_0.png",
-        "img_1": "ex_0266_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "an open fridge",
         "dataset": "Ego4D",
@@ -5337,12 +5335,12 @@
                 "the man opens the fridge slightly",
                 "the man tries to open the fridge, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0266_0",
+        "image_1": "ex_0266_1"
     },
     {
         "id": 267,
-        "img_0": "ex_0267_0.png",
-        "img_1": "ex_0267_1.png",
         "caption_0": "an empty pot",
         "caption_1": "a pot with rice",
         "dataset": "Ego4D",
@@ -5357,12 +5355,12 @@
                 "pour rice into the pot until it is a quarter full",
                 "pour rice into the pot until it is half full"
             ]
-        }
+        },
+        "image_0": "ex_0267_0",
+        "image_1": "ex_0267_1"
     },
     {
         "id": 268,
-        "img_0": "ex_0268_0.png",
-        "img_1": "ex_0268_1.png",
         "caption_0": "a tied nylon bag",
         "caption_1": "an opened nylon bag",
         "dataset": "Ego4D",
@@ -5377,12 +5375,12 @@
                 "untie and open the nylon bag",
                 "untie the nylon bag"
             ]
-        }
+        },
+        "image_0": "ex_0268_0",
+        "image_1": "ex_0268_1"
     },
     {
         "id": 269,
-        "img_0": "ex_0269_0.png",
-        "img_1": "ex_0269_1.png",
         "caption_0": "an onion with its skin",
         "caption_1": "a peeled onion",
         "dataset": "Ego4D",
@@ -5397,12 +5395,12 @@
                 "partially peel the onion",
                 "peel the onion halfway"
             ]
-        }
+        },
+        "image_0": "ex_0269_0",
+        "image_1": "ex_0269_1"
     },
     {
         "id": 270,
-        "img_0": "ex_0270_0.png",
-        "img_1": "ex_0270_1.png",
         "caption_0": "a closed door",
         "caption_1": "an open door",
         "dataset": "Ego4D",
@@ -5417,12 +5415,12 @@
                 "open the door halfway",
                 "open the door slightly"
             ]
-        }
+        },
+        "image_0": "ex_0270_0",
+        "image_1": "ex_0270_1"
     },
     {
         "id": 271,
-        "img_0": "ex_0271_0.png",
-        "img_1": "ex_0271_1.png",
         "caption_0": "an onion cut into halves",
         "caption_1": "an onion cut into slices",
         "dataset": "Ego4D",
@@ -5437,12 +5435,12 @@
                 "slice half the onion",
                 "slice most of the onion"
             ]
-        }
+        },
+        "image_0": "ex_0271_0",
+        "image_1": "ex_0271_1"
     },
     {
         "id": 272,
-        "img_0": "ex_0272_0.png",
-        "img_1": "ex_0272_1.png",
         "caption_0": "a green pea being cut into two pieces",
         "caption_1": "a green pea cut into two pieces",
         "dataset": "Ego4D",
@@ -5457,12 +5455,12 @@
                 "cut the green pea into two pieces",
                 "partially cut the green pea into two pieces"
             ]
-        }
+        },
+        "image_0": "ex_0272_0",
+        "image_1": "ex_0272_1"
     },
     {
         "id": 273,
-        "img_0": "ex_0273_0.png",
-        "img_1": "ex_0273_1.png",
         "caption_0": "an unlit gas cooker",
         "caption_1": "a lit gas cooker",
         "dataset": "Ego4D",
@@ -5477,12 +5475,12 @@
                 "turn on the gas cooker to low",
                 "turn on the gas cooker, but there is no flame"
             ]
-        }
+        },
+        "image_0": "ex_0273_0",
+        "image_1": "ex_0273_1"
     },
     {
         "id": 274,
-        "img_0": "ex_0274_0.png",
-        "img_1": "ex_0274_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "a slightly open fridge",
         "dataset": "Ego4D",
@@ -5497,12 +5495,12 @@
                 "open the fridge slightly",
                 "open the fridge to about 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0274_0",
+        "image_1": "ex_0274_1"
     },
     {
         "id": 275,
-        "img_0": "ex_0275_0.png",
-        "img_1": "ex_0275_1.png",
         "caption_0": "gingers being minced",
         "caption_1": "minced ginger",
         "dataset": "Ego4D",
@@ -5517,12 +5515,12 @@
                 "start mincing the ginger",
                 "stop mincing halfway"
             ]
-        }
+        },
+        "image_0": "ex_0275_0",
+        "image_1": "ex_0275_1"
     },
     {
         "id": 276,
-        "img_0": "ex_0276_0.png",
-        "img_1": "ex_0276_1.png",
         "caption_0": "a knife with minced ginger on it",
         "caption_1": "a clean knife",
         "dataset": "Ego4D",
@@ -5537,12 +5535,12 @@
                 "wipe most of the ginger off the knife into the bowl",
                 "wipe some of the ginger off the knife into the bowl"
             ]
-        }
+        },
+        "image_0": "ex_0276_0",
+        "image_1": "ex_0276_1"
     },
     {
         "id": 277,
-        "img_0": "ex_0277_0.png",
-        "img_1": "ex_0277_1.png",
         "caption_0": "an unrapped bowl with vegitable",
         "caption_1": "a rapped bowl with vegitable",
         "dataset": "Ego4D",
@@ -5557,12 +5555,12 @@
                 "wrap the bowl securely",
                 "wrap the bowl softly"
             ]
-        }
+        },
+        "image_0": "ex_0277_0",
+        "image_1": "ex_0277_1"
     },
     {
         "id": 278,
-        "img_0": "ex_0278_0.png",
-        "img_1": "ex_0278_1.png",
         "caption_0": "a pot with white powder",
         "caption_1": "a pot with white powder soaked in water",
         "dataset": "Ego4D",
@@ -5577,12 +5575,12 @@
                 "pour water into the pot to wet the white powder",
                 "pour water into the pot until it is full"
             ]
-        }
+        },
+        "image_0": "ex_0278_0",
+        "image_1": "ex_0278_1"
     },
     {
         "id": 279,
-        "img_0": "ex_0279_0.png",
-        "img_1": "ex_0279_1.png",
         "caption_0": "a tin with its lid",
         "caption_1": "an open tin",
         "dataset": "Ego4D",
@@ -5597,12 +5595,12 @@
                 "rotate the lid of the tin to open it",
                 "try to rotate the lid of the tin, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0279_0",
+        "image_1": "ex_0279_1"
     },
     {
         "id": 280,
-        "img_0": "ex_0280_0.png",
-        "img_1": "ex_0280_1.png",
         "caption_0": "an intact wire",
         "caption_1": "a cut wire",
         "dataset": "Ego4D",
@@ -5617,12 +5615,12 @@
                 "locate the wire between the blades of pliers",
                 "unroll the wire from the reel"
             ]
-        }
+        },
+        "image_0": "ex_0280_0",
+        "image_1": "ex_0280_1"
     },
     {
         "id": 281,
-        "img_0": "ex_0281_0.png",
-        "img_1": "ex_0281_1.png",
         "caption_0": "a fully covered wire",
         "caption_1": "a stripped wire",
         "dataset": "Ego4D",
@@ -5637,12 +5635,12 @@
                 "strip the wire to about a knuckle's length",
                 "strip the wire to about two knuckles' length"
             ]
-        }
+        },
+        "image_0": "ex_0281_0",
+        "image_1": "ex_0281_1"
     },
     {
         "id": 282,
-        "img_0": "ex_0282_0.png",
-        "img_1": "ex_0282_1.png",
         "caption_0": "tied wires",
         "caption_1": "untied wires",
         "dataset": "Ego4D",
@@ -5657,12 +5655,12 @@
                 "cut the tape binding the wires halfway",
                 "slightly cut the tape binding the wires"
             ]
-        }
+        },
+        "image_0": "ex_0282_0",
+        "image_1": "ex_0282_1"
     },
     {
         "id": 283,
-        "img_0": "ex_0283_0.png",
-        "img_1": "ex_0283_1.png",
         "caption_0": "an open tool box",
         "caption_1": "a closed tool box",
         "dataset": "Ego4D",
@@ -5677,12 +5675,12 @@
                 "completely close the tool box",
                 "try to close the tool box, but the lid doesn't hit"
             ]
-        }
+        },
+        "image_0": "ex_0283_0",
+        "image_1": "ex_0283_1"
     },
     {
         "id": 284,
-        "img_0": "ex_0284_0.png",
-        "img_1": "ex_0284_1.png",
         "caption_0": "a closed door",
         "caption_1": "an open door",
         "dataset": "Ego4D",
@@ -5697,12 +5695,12 @@
                 "open the door slightly",
                 "pull the handle of the door"
             ]
-        }
+        },
+        "image_0": "ex_0284_0",
+        "image_1": "ex_0284_1"
     },
     {
         "id": 285,
-        "img_0": "ex_0285_0.png",
-        "img_1": "ex_0285_1.png",
         "caption_0": "a closed zip bag",
         "caption_1": "an open zip bag",
         "dataset": "Ego4D",
@@ -5717,12 +5715,12 @@
                 "slightly open the zip bag",
                 "try to open the zip bag, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0285_0",
+        "image_1": "ex_0285_1"
     },
     {
         "id": 286,
-        "img_0": "ex_0286_0.png",
-        "img_1": "ex_0286_1.png",
         "caption_0": "a closed bottle",
         "caption_1": "an open bottle",
         "dataset": "Ego4D",
@@ -5737,12 +5735,12 @@
                 "rotate the lid of the bottle to open",
                 "try to rotate the lid of the bottle, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0286_0",
+        "image_1": "ex_0286_1"
     },
     {
         "id": 287,
-        "img_0": "ex_0287_0.png",
-        "img_1": "ex_0287_1.png",
         "caption_0": "a slightly open box",
         "caption_1": "a fully open box",
         "dataset": "Ego4D",
@@ -5757,12 +5755,12 @@
                 "open the box all the way",
                 "slightly open the box that is closed"
             ]
-        }
+        },
+        "image_0": "ex_0287_0",
+        "image_1": "ex_0287_1"
     },
     {
         "id": 288,
-        "img_0": "ex_0288_0.png",
-        "img_1": "ex_0288_1.png",
         "caption_0": "an unwrapped plate with meat",
         "caption_1": "a wrapped plate with meat",
         "dataset": "Ego4D",
@@ -5777,12 +5775,12 @@
                 "softly wrap the meat plate",
                 "unroll the wrap"
             ]
-        }
+        },
+        "image_0": "ex_0288_0",
+        "image_1": "ex_0288_1"
     },
     {
         "id": 289,
-        "img_0": "ex_0289_0.png",
-        "img_1": "ex_0289_1.png",
         "caption_0": "a right hand covered with powder",
         "caption_1": "a rinsed right hand",
         "dataset": "Ego4D",
@@ -5797,12 +5795,12 @@
                 "rinse the fingers",
                 "slightly rinse the hand"
             ]
-        }
+        },
+        "image_0": "ex_0289_0",
+        "image_1": "ex_0289_1"
     },
     {
         "id": 290,
-        "img_0": "ex_0290_0.png",
-        "img_1": "ex_0290_1.png",
         "caption_0": "dice being rolled in the cylinder",
         "caption_1": "dice that has been rolled and show the face",
         "dataset": "Ego4D",
@@ -5817,12 +5815,12 @@
                 "shake the cylinder that contains dice",
                 "start rolling the dice"
             ]
-        }
+        },
+        "image_0": "ex_0290_0",
+        "image_1": "ex_0290_1"
     },
     {
         "id": 291,
-        "img_0": "ex_0291_0.png",
-        "img_1": "ex_0291_1.png",
         "caption_0": "Ludo tokens scattered on the game board",
         "caption_1": "Ludo tokens gathered in two places on the game board",
         "dataset": "Ego4D",
@@ -5837,12 +5835,12 @@
                 "gather the tokens in two places",
                 "gather the tokens on the table"
             ]
-        }
+        },
+        "image_0": "ex_0291_0",
+        "image_1": "ex_0291_1"
     },
     {
         "id": 292,
-        "img_0": "ex_0292_0.png",
-        "img_1": "ex_0292_1.png",
         "caption_0": "A bed with the sheets pulled back",
         "caption_1": "A bed with the sheets arranged",
         "dataset": "Ego4D",
@@ -5857,12 +5855,12 @@
                 "neatly arrange the bed",
                 "roughly arrange the bed"
             ]
-        }
+        },
+        "image_0": "ex_0292_0",
+        "image_1": "ex_0292_1"
     },
     {
         "id": 293,
-        "img_0": "ex_0293_0.png",
-        "img_1": "ex_0293_1.png",
         "caption_0": "A closed door",
         "caption_1": "An open door",
         "dataset": "Ego4D",
@@ -5877,12 +5875,12 @@
                 "slightly open the door",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0293_0",
+        "image_1": "ex_0293_1"
     },
     {
         "id": 294,
-        "img_0": "ex_0294_0.png",
-        "img_1": "ex_0294_1.png",
         "caption_0": "A closed box",
         "caption_1": "An open box",
         "dataset": "Ego4D",
@@ -5897,12 +5895,12 @@
                 "open the box slightly",
                 "open the box to 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0294_0",
+        "image_1": "ex_0294_1"
     },
     {
         "id": 295,
-        "img_0": "ex_0295_0.png",
-        "img_1": "ex_0295_1.png",
         "caption_0": "A closed suitcase",
         "caption_1": "An opened suitcase",
         "dataset": "Ego4D",
@@ -5917,12 +5915,12 @@
                 "open the suitcase halfway",
                 "slightly open the suitcase"
             ]
-        }
+        },
+        "image_0": "ex_0295_0",
+        "image_1": "ex_0295_1"
     },
     {
         "id": 296,
-        "img_0": "ex_0296_0.png",
-        "img_1": "ex_0296_1.png",
         "caption_0": "an open bag",
         "caption_1": "a closed bag",
         "dataset": "Ego4D",
@@ -5937,12 +5935,12 @@
                 "roughly close the bag",
                 "slightly close the bag"
             ]
-        }
+        },
+        "image_0": "ex_0296_0",
+        "image_1": "ex_0296_1"
     },
     {
         "id": 297,
-        "img_0": "ex_0297_0.png",
-        "img_1": "ex_0297_1.png",
         "caption_0": "a closed bag",
         "caption_1": "an open bag",
         "dataset": "Ego4D",
@@ -5957,12 +5955,12 @@
                 "slightly open the bag",
                 "unzip the bag to open"
             ]
-        }
+        },
+        "image_0": "ex_0297_0",
+        "image_1": "ex_0297_1"
     },
     {
         "id": 298,
-        "img_0": "ex_0298_0.png",
-        "img_1": "ex_0298_1.png",
         "caption_0": "an opened blue box",
         "caption_1": "a closed blue box",
         "dataset": "Ego4D",
@@ -5977,12 +5975,12 @@
                 "fully close the box",
                 "slgihtly close the box"
             ]
-        }
+        },
+        "image_0": "ex_0298_0",
+        "image_1": "ex_0298_1"
     },
     {
         "id": 299,
-        "img_0": "ex_0299_0.png",
-        "img_1": "ex_0299_1.png",
         "caption_0": "a closed refrigerator",
         "caption_1": "a slightly open refrigerator",
         "dataset": "Ego4D",
@@ -5997,12 +5995,12 @@
                 "open the refrigerator halfway",
                 "open the refrigerator slightly"
             ]
-        }
+        },
+        "image_0": "ex_0299_0",
+        "image_1": "ex_0299_1"
     },
     {
         "id": 300,
-        "img_0": "ex_0300_0.png",
-        "img_1": "ex_0300_1.png",
         "caption_0": "kitchen lights being off",
         "caption_1": "kitchen lights being on",
         "dataset": "Ego4D",
@@ -6017,12 +6015,12 @@
                 "turn on the light enough to illuminate a whole room",
                 "turn on the light enough to illuminate hands"
             ]
-        }
+        },
+        "image_0": "ex_0300_0",
+        "image_1": "ex_0300_1"
     },
     {
         "id": 301,
-        "img_0": "ex_0301_0.png",
-        "img_1": "ex_0301_1.png",
         "caption_0": "a closed dishwasher",
         "caption_1": "an open dishwasher",
         "dataset": "Ego4D",
@@ -6037,12 +6035,12 @@
                 "open the dishwasher most of the way",
                 "open the dishwasher slightly"
             ]
-        }
+        },
+        "image_0": "ex_0301_0",
+        "image_1": "ex_0301_1"
     },
     {
         "id": 302,
-        "img_0": "ex_0302_0.png",
-        "img_1": "ex_0302_1.png",
         "caption_0": "dirty countertop",
         "caption_1": "clean countertop",
         "dataset": "Ego4D",
@@ -6057,12 +6055,12 @@
                 "wipe the countertop partially",
                 "wipe the entire countertop"
             ]
-        }
+        },
+        "image_0": "ex_0302_0",
+        "image_1": "ex_0302_1"
     },
     {
         "id": 303,
-        "img_0": "ex_0303_0.png",
-        "img_1": "ex_0303_1.png",
         "caption_0": "a car with closed doors",
         "caption_1": "a car with a slightly open door",
         "dataset": "Ego4D",
@@ -6077,12 +6075,12 @@
                 "pull the handle of the car door",
                 "slightly open the car door"
             ]
-        }
+        },
+        "image_0": "ex_0303_0",
+        "image_1": "ex_0303_1"
     },
     {
         "id": 304,
-        "img_0": "ex_0304_0.png",
-        "img_1": "ex_0304_1.png",
         "caption_0": "a halfway open car boot",
         "caption_1": "a fully open car boot",
         "dataset": "Ego4D",
@@ -6097,12 +6095,12 @@
                 "fully open the car boot that is slightly open",
                 "slightly open the car boot that is closed"
             ]
-        }
+        },
+        "image_0": "ex_0304_0",
+        "image_1": "ex_0304_1"
     },
     {
         "id": 305,
-        "img_0": "ex_0305_0.png",
-        "img_1": "ex_0305_1.png",
         "caption_0": "a room with lights off",
         "caption_1": "a room with lights on",
         "dataset": "Ego4D",
@@ -6117,12 +6115,12 @@
                 "turn on the light enough to illuminate a whole room",
                 "turn on the light enough to illuminate hands"
             ]
-        }
+        },
+        "image_0": "ex_0305_0",
+        "image_1": "ex_0305_1"
     },
     {
         "id": 306,
-        "img_0": "ex_0306_0.png",
-        "img_1": "ex_0306_1.png",
         "caption_0": "a closed black dustbin",
         "caption_1": "an open black dustbin",
         "dataset": "Ego4D",
@@ -6137,12 +6135,12 @@
                 "open the black dustbin slightly",
                 "remove the lid of the black dustbin"
             ]
-        }
+        },
+        "image_0": "ex_0306_0",
+        "image_1": "ex_0306_1"
     },
     {
         "id": 307,
-        "img_0": "ex_0307_0.png",
-        "img_1": "ex_0307_1.png",
         "caption_0": "in a car with its headlights off",
         "caption_1": "in a car with its headlights on",
         "dataset": "Ego4D",
@@ -6157,12 +6155,12 @@
                 "start drivingthe car backward",
                 "turn on the headlights"
             ]
-        }
+        },
+        "image_0": "ex_0307_0",
+        "image_1": "ex_0307_1"
     },
     {
         "id": 308,
-        "img_0": "ex_0308_0.png",
-        "img_1": "ex_0308_1.png",
         "caption_0": "a steering wheel kept straigtht",
         "caption_1": "a steering wheel turned to the right",
         "dataset": "Ego4D",
@@ -6177,12 +6175,12 @@
                 "turn the steering wheel back to straight",
                 "turn the steering wheel to the right"
             ]
-        }
+        },
+        "image_0": "ex_0308_0",
+        "image_1": "ex_0308_1"
     },
     {
         "id": 309,
-        "img_0": "ex_0309_0.png",
-        "img_1": "ex_0309_1.png",
         "caption_0": "a slightly open door",
         "caption_1": "a door open enough to pass",
         "dataset": "Ego4D",
@@ -6197,12 +6195,12 @@
                 "open the door just enough to pass through",
                 "slightly open the door that is closed"
             ]
-        }
+        },
+        "image_0": "ex_0309_0",
+        "image_1": "ex_0309_1"
     },
     {
         "id": 310,
-        "img_0": "ex_0310_0.png",
-        "img_1": "ex_0310_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "a slightly open cabinet",
         "dataset": "Ego4D",
@@ -6217,12 +6215,12 @@
                 "open the cabinet halfway",
                 "slightly open the cabinet"
             ]
-        }
+        },
+        "image_0": "ex_0310_0",
+        "image_1": "ex_0310_1"
     },
     {
         "id": 311,
-        "img_0": "ex_0311_0.png",
-        "img_1": "ex_0311_1.png",
         "caption_0": "empty pans",
         "caption_1": "pans with cooking oil",
         "dataset": "Ego4D",
@@ -6237,12 +6235,12 @@
                 "pour cooking oil into the pan until it covers the bottom",
                 "pour cooking oil into the pan until it is half full"
             ]
-        }
+        },
+        "image_0": "ex_0311_0",
+        "image_1": "ex_0311_1"
     },
     {
         "id": 312,
-        "img_0": "ex_0312_0.png",
-        "img_1": "ex_0312_1.png",
         "caption_0": "a closed dustbin",
         "caption_1": "an open dustbin",
         "dataset": "Ego4D",
@@ -6257,12 +6255,12 @@
                 "remove the lid of the dustbin to open",
                 "slightly open the dustbin"
             ]
-        }
+        },
+        "image_0": "ex_0312_0",
+        "image_1": "ex_0312_1"
     },
     {
         "id": 313,
-        "img_0": "ex_0313_0.png",
-        "img_1": "ex_0313_1.png",
         "caption_0": "stir-fry with tomato sauce on top",
         "caption_1": "stir-fry mixed with tomato sauce",
         "dataset": "Ego4D",
@@ -6277,12 +6275,12 @@
                 "stir the vegetables until the tomato sauce partially spreads",
                 "stir the vegetables until the tomato sauce spreads halfway"
             ]
-        }
+        },
+        "image_0": "ex_0313_0",
+        "image_1": "ex_0313_1"
     },
     {
         "id": 314,
-        "img_0": "ex_0314_0.png",
-        "img_1": "ex_0314_1.png",
         "caption_0": "egg cooking on one side",
         "caption_1": "egg cooking on second side",
         "dataset": "Ego4D",
@@ -6297,12 +6295,12 @@
                 "put a raw egg on the pan",
                 "turn over the egg"
             ]
-        }
+        },
+        "image_0": "ex_0314_0",
+        "image_1": "ex_0314_1"
     },
     {
         "id": 315,
-        "img_0": "ex_0315_0.png",
-        "img_1": "ex_0315_1.png",
         "caption_0": "floor with litter",
         "caption_1": "clean floor",
         "dataset": "Ego4D",
@@ -6317,12 +6315,12 @@
                 "completely clean the floor",
                 "partially clean the floor"
             ]
-        }
+        },
+        "image_0": "ex_0315_0",
+        "image_1": "ex_0315_1"
     },
     {
         "id": 316,
-        "img_0": "ex_0316_0.png",
-        "img_1": "ex_0316_1.png",
         "caption_0": "a stove with power off",
         "caption_1": "a stove with power on",
         "dataset": "Ego4D",
@@ -6337,12 +6335,12 @@
                 "put a pan on the stove",
                 "turn on the stove"
             ]
-        }
+        },
+        "image_0": "ex_0316_0",
+        "image_1": "ex_0316_1"
     },
     {
         "id": 317,
-        "img_0": "ex_0317_0.png",
-        "img_1": "ex_0317_1.png",
         "caption_0": "a tap not in use",
         "caption_1": "a tap in use",
         "dataset": "Ego4D",
@@ -6357,12 +6355,12 @@
                 "run the tap to low flow",
                 "run the tap to moderate flow"
             ]
-        }
+        },
+        "image_0": "ex_0317_0",
+        "image_1": "ex_0317_1"
     },
     {
         "id": 318,
-        "img_0": "ex_0318_0.png",
-        "img_1": "ex_0318_1.png",
         "caption_0": "intact potatoes",
         "caption_1": "potato slices",
         "dataset": "Ego4D",
@@ -6377,12 +6375,12 @@
                 "slice the almost whole potato",
                 "slice the whole potato"
             ]
-        }
+        },
+        "image_0": "ex_0318_0",
+        "image_1": "ex_0318_1"
     },
     {
         "id": 319,
-        "img_0": "ex_0319_0.png",
-        "img_1": "ex_0319_1.png",
         "caption_0": "an intact leaf of spinach",
         "caption_1": "a leaf of spinach with cuts near the stem",
         "dataset": "Ego4D",
@@ -6397,12 +6395,12 @@
                 "cut the leaf of spinach into two pieces",
                 "cut the leaf of spinach to remove its stem"
             ]
-        }
+        },
+        "image_0": "ex_0319_0",
+        "image_1": "ex_0319_1"
     },
     {
         "id": 320,
-        "img_0": "ex_0320_0.png",
-        "img_1": "ex_0320_1.png",
         "caption_0": "a capsicum with its seeds",
         "caption_1": "a capsicum with its seeds removed",
         "dataset": "Ego4D",
@@ -6417,12 +6415,12 @@
                 "partially remove the seed of capsicum",
                 "remove the seed of capsicum halfway"
             ]
-        }
+        },
+        "image_0": "ex_0320_0",
+        "image_1": "ex_0320_1"
     },
     {
         "id": 321,
-        "img_0": "ex_0321_0.png",
-        "img_1": "ex_0321_1.png",
         "caption_0": "rinsed hands",
         "caption_1": "dried hands",
         "dataset": "Ego4D",
@@ -6437,12 +6435,12 @@
                 "completely dry the right hand",
                 "dry the hands halfway"
             ]
-        }
+        },
+        "image_0": "ex_0321_0",
+        "image_1": "ex_0321_1"
     },
     {
         "id": 322,
-        "img_0": "ex_0322_0.png",
-        "img_1": "ex_0322_1.png",
         "caption_0": "a cabinet halfly open",
         "caption_1": "a cabinet fully open",
         "dataset": "Ego4D",
@@ -6457,12 +6455,12 @@
                 "fully open the cabinet that is slightly open",
                 "hold the cabinet door to keep it from moving"
             ]
-        }
+        },
+        "image_0": "ex_0322_0",
+        "image_1": "ex_0322_1"
     },
     {
         "id": 323,
-        "img_0": "ex_0323_0.png",
-        "img_1": "ex_0323_1.png",
         "caption_0": "a slightly open drawer",
         "caption_1": "a fully open drawer",
         "dataset": "Ego4D",
@@ -6477,12 +6475,12 @@
                 "fully open the drawer that is slightly open",
                 "hold the fully open drawer to keep it from moving"
             ]
-        }
+        },
+        "image_0": "ex_0323_0",
+        "image_1": "ex_0323_1"
     },
     {
         "id": 324,
-        "img_0": "ex_0324_0.png",
-        "img_1": "ex_0324_1.png",
         "caption_0": "foil rolled up",
         "caption_1": "unrolled foil",
         "dataset": "Ego4D",
@@ -6497,12 +6495,12 @@
                 "unroll the foil about the length of a hand",
                 "unroll the foil about the length of an arm"
             ]
-        }
+        },
+        "image_0": "ex_0324_0",
+        "image_1": "ex_0324_1"
     },
     {
         "id": 325,
-        "img_0": "ex_0325_0.png",
-        "img_1": "ex_0325_1.png",
         "caption_0": "a bare oven plate",
         "caption_1": "an oven plate covered with foil",
         "dataset": "Ego4D",
@@ -6517,12 +6515,12 @@
                 "softly wrap the oven plate with the foil",
                 "unroll the foil to cover the plate"
             ]
-        }
+        },
+        "image_0": "ex_0325_0",
+        "image_1": "ex_0325_1"
     },
     {
         "id": 326,
-        "img_0": "ex_0326_0.png",
-        "img_1": "ex_0326_1.png",
         "caption_0": "a dirty plate",
         "caption_1": "a clean plate",
         "dataset": "Ego4D",
@@ -6537,12 +6535,12 @@
                 "wash the plate but it is still covered in soap",
                 "wash the plate halfway"
             ]
-        }
+        },
+        "image_0": "ex_0326_0",
+        "image_1": "ex_0326_1"
     },
     {
         "id": 327,
-        "img_0": "ex_0327_0.png",
-        "img_1": "ex_0327_1.png",
         "caption_0": "potatoes soaked in water",
         "caption_1": "potatoes being boiled",
         "dataset": "Ego4D",
@@ -6557,12 +6555,12 @@
                 "heat the pot to boil the potatoes",
                 "start to boil the potatoes"
             ]
-        }
+        },
+        "image_0": "ex_0327_0",
+        "image_1": "ex_0327_1"
     },
     {
         "id": 328,
-        "img_0": "ex_0328_0.png",
-        "img_1": "ex_0328_1.png",
         "caption_0": "a closed oven",
         "caption_1": "an open oven",
         "dataset": "Ego4D",
@@ -6577,12 +6575,12 @@
                 "open the oven just enough to place the plate in it",
                 "open the oven slightly"
             ]
-        }
+        },
+        "image_0": "ex_0328_0",
+        "image_1": "ex_0328_1"
     },
     {
         "id": 329,
-        "img_0": "ex_0329_0.png",
-        "img_1": "ex_0329_1.png",
         "caption_0": "a bowl of tap water",
         "caption_1": "a bowl of water with detergent",
         "dataset": "Ego4D",
@@ -6597,12 +6595,12 @@
                 "pour detergent into the bowl until the soap covers the surface",
                 "pour detergent into the bowl until the soap overflows"
             ]
-        }
+        },
+        "image_0": "ex_0329_0",
+        "image_1": "ex_0329_1"
     },
     {
         "id": 330,
-        "img_0": "ex_0330_0.png",
-        "img_1": "ex_0330_1.png",
         "caption_0": "a brush not soaked in water",
         "caption_1": "a brush dipped into water",
         "dataset": "Ego4D",
@@ -6617,12 +6615,12 @@
                 "dip the tip of brush in the water",
                 "dip the whole bristles of the brush in the water"
             ]
-        }
+        },
+        "image_0": "ex_0330_0",
+        "image_1": "ex_0330_1"
     },
     {
         "id": 331,
-        "img_0": "ex_0331_0.png",
-        "img_1": "ex_0331_1.png",
         "caption_0": "a floor with litter",
         "caption_1": "a clean floor",
         "dataset": "Ego4D",
@@ -6637,12 +6635,12 @@
                 "sweep half of the litter into the dustpan",
                 "sweep part of the litter into the dustpan"
             ]
-        }
+        },
+        "image_0": "ex_0331_0",
+        "image_1": "ex_0331_1"
     },
     {
         "id": 332,
-        "img_0": "ex_0332_0.png",
-        "img_1": "ex_0332_1.png",
         "caption_0": "an open dustbin",
         "caption_1": "a closed dustbin",
         "dataset": "Ego4D",
@@ -6657,12 +6655,12 @@
                 "fully close the dustbin",
                 "slightly close the dustbin"
             ]
-        }
+        },
+        "image_0": "ex_0332_0",
+        "image_1": "ex_0332_1"
     },
     {
         "id": 333,
-        "img_0": "ex_0333_0.png",
-        "img_1": "ex_0333_1.png",
         "caption_0": "an open drawer",
         "caption_1": "a closed drawer",
         "dataset": "Ego4D",
@@ -6677,12 +6675,12 @@
                 "slightly close the drawer that is fully open",
                 "slightly close the drawer that is halfway open"
             ]
-        }
+        },
+        "image_0": "ex_0333_0",
+        "image_1": "ex_0333_1"
     },
     {
         "id": 334,
-        "img_0": "ex_0334_0.png",
-        "img_1": "ex_0334_1.png",
         "caption_0": "a lint roller with dirty adhesive paper",
         "caption_1": "a lint roller with clean adhesive paper",
         "dataset": "Ego4D",
@@ -6697,12 +6695,12 @@
                 "peel the adhesive sheet halfway",
                 "try to peel off the adhesive sheet, but it is securely stuck"
             ]
-        }
+        },
+        "image_0": "ex_0334_0",
+        "image_1": "ex_0334_1"
     },
     {
         "id": 335,
-        "img_0": "ex_0335_0.png",
-        "img_1": "ex_0335_1.png",
         "caption_0": "a closed door",
         "caption_1": "an opened door",
         "dataset": "Ego4D",
@@ -6717,12 +6715,12 @@
                 "slightly open the door",
                 "try to open the door, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0335_0",
+        "image_1": "ex_0335_1"
     },
     {
         "id": 336,
-        "img_0": "ex_0336_0.png",
-        "img_1": "ex_0336_1.png",
         "caption_0": "an opened door",
         "caption_1": "a closed door",
         "dataset": "Ego4D",
@@ -6737,12 +6735,12 @@
                 "close the door that is slightly open",
                 "lock the door that is closed"
             ]
-        }
+        },
+        "image_0": "ex_0336_0",
+        "image_1": "ex_0336_1"
     },
     {
         "id": 337,
-        "img_0": "ex_0337_0.png",
-        "img_1": "ex_0337_1.png",
         "caption_0": "clothes being lifted by hand",
         "caption_1": "clothes hung on the hook",
         "dataset": "Ego4D",
@@ -6757,12 +6755,12 @@
                 "securely hang one of the clothes on the hook",
                 "securely hang the clothes on the hook"
             ]
-        }
+        },
+        "image_0": "ex_0337_0",
+        "image_1": "ex_0337_1"
     },
     {
         "id": 338,
-        "img_0": "ex_0338_0.png",
-        "img_1": "ex_0338_1.png",
         "caption_0": "a closed seed starter tray",
         "caption_1": "an opened seed starter tray",
         "dataset": "Ego4D",
@@ -6777,12 +6775,12 @@
                 "remove the lid of the seed starter",
                 "slgihtly open the seed starter"
             ]
-        }
+        },
+        "image_0": "ex_0338_0",
+        "image_1": "ex_0338_1"
     },
     {
         "id": 339,
-        "img_0": "ex_0339_0.png",
-        "img_1": "ex_0339_1.png",
         "caption_0": "an empty tray on weighing scale",
         "caption_1": "a tray with powder on weighing scale",
         "dataset": "Ego4D",
@@ -6797,12 +6795,12 @@
                 "pour powder onto the weighing scale until it is half full",
                 "pour powder onto the weighing scale until the powder covers its bottom"
             ]
-        }
+        },
+        "image_0": "ex_0339_0",
+        "image_1": "ex_0339_1"
     },
     {
         "id": 340,
-        "img_0": "ex_0340_0.png",
-        "img_1": "ex_0340_1.png",
         "caption_0": "a water dispenser pouring water",
         "caption_1": "a water dispenser not in use",
         "dataset": "Ego4D",
@@ -6817,12 +6815,12 @@
                 "set the water dispenser to a low flow",
                 "start using the water dispenser"
             ]
-        }
+        },
+        "image_0": "ex_0340_0",
+        "image_1": "ex_0340_1"
     },
     {
         "id": 341,
-        "img_0": "ex_0341_0.png",
-        "img_1": "ex_0341_1.png",
         "caption_0": "a seed tray almost filled with soil blocks",
         "caption_1": "a seed tray fully filled with soil blocks",
         "dataset": "Ego4D",
@@ -6837,12 +6835,12 @@
                 "fill the tray with soil blocks completely",
                 "fill the tray with soil blocks halfway"
             ]
-        }
+        },
+        "image_0": "ex_0341_0",
+        "image_1": "ex_0341_1"
     },
     {
         "id": 342,
-        "img_0": "ex_0342_0.png",
-        "img_1": "ex_0342_1.png",
         "caption_0": "a jug of water with a calm surface",
         "caption_1": "a jug of water stirred by a magnetic stirrer",
         "dataset": "Ego4D",
@@ -6857,12 +6855,12 @@
                 "turn on the magnetic stirrer",
                 "turn on the magnetic stirrer, but it doesn't work"
             ]
-        }
+        },
+        "image_0": "ex_0342_0",
+        "image_1": "ex_0342_1"
     },
     {
         "id": 343,
-        "img_0": "ex_0343_0.png",
-        "img_1": "ex_0343_1.png",
         "caption_0": "a tray with dry soil blocks",
         "caption_1": "a tray with watered soil blocks",
         "dataset": "Ego4D",
@@ -6877,12 +6875,12 @@
                 "water the almost all soil blocks",
                 "water the soil blocks on the left side"
             ]
-        }
+        },
+        "image_0": "ex_0343_0",
+        "image_1": "ex_0343_1"
     },
     {
         "id": 344,
-        "img_0": "ex_0344_0.png",
-        "img_1": "ex_0344_1.png",
         "caption_0": "a syringe held in a hand",
         "caption_1": "a syringe on a rack",
         "dataset": "Ego4D",
@@ -6897,12 +6895,12 @@
                 "securely put the syringe on the rack",
                 "try to put the syringe on the rack, but it falls"
             ]
-        }
+        },
+        "image_0": "ex_0344_0",
+        "image_1": "ex_0344_1"
     },
     {
         "id": 345,
-        "img_0": "ex_0345_0.png",
-        "img_1": "ex_0345_1.png",
         "caption_0": "a closed dustbin",
         "caption_1": "an opened dustbin",
         "dataset": "Ego4D",
@@ -6917,12 +6915,12 @@
                 "step on the pedal of the dustbin, but it doesn't open",
                 "step on the pedal of the dustbin, but it is too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0345_0",
+        "image_1": "ex_0345_1"
     },
     {
         "id": 346,
-        "img_0": "ex_0346_0.png",
-        "img_1": "ex_0346_1.png",
         "caption_0": "a closed fridge",
         "caption_1": "an opened fridge",
         "dataset": "Ego4D",
@@ -6937,12 +6935,12 @@
                 "slightly open the fridge",
                 "try to open the fridge, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0346_0",
+        "image_1": "ex_0346_1"
     },
     {
         "id": 347,
-        "img_0": "ex_0347_0.png",
-        "img_1": "ex_0347_1.png",
         "caption_0": "a seedling tray with only an orange label on it",
         "caption_1": "a seedling tray with yellow and orange labels on it",
         "dataset": "Ego4D",
@@ -6957,12 +6955,12 @@
                 "securely stick the yellow label on the tray",
                 "softly stick the yellow label on the tray"
             ]
-        }
+        },
+        "image_0": "ex_0347_0",
+        "image_1": "ex_0347_1"
     },
     {
         "id": 348,
-        "img_0": "ex_0348_0.png",
-        "img_1": "ex_0348_1.png",
         "caption_0": "a seedling tray with labels that have no letters",
         "caption_1": "a seedling tray with labels that have some letters",
         "dataset": "Ego4D",
@@ -6977,12 +6975,12 @@
                 "write some lines on the labels",
                 "write some symbols on the labels"
             ]
-        }
+        },
+        "image_0": "ex_0348_0",
+        "image_1": "ex_0348_1"
     },
     {
         "id": 349,
-        "img_0": "ex_0349_0.png",
-        "img_1": "ex_0349_1.png",
         "caption_0": "a closed door",
         "caption_1": "an open door",
         "dataset": "Ego4D",
@@ -6997,12 +6995,12 @@
                 "open the door just enough to pass through",
                 "open the door slightly"
             ]
-        }
+        },
+        "image_0": "ex_0349_0",
+        "image_1": "ex_0349_1"
     },
     {
         "id": 350,
-        "img_0": "ex_0350_0.png",
-        "img_1": "ex_0350_1.png",
         "caption_0": "a room with its light on",
         "caption_1": "a room with its light off",
         "dataset": "Ego4D",
@@ -7017,12 +7015,12 @@
                 "dim the light until it's nearly off",
                 "turn off the light"
             ]
-        }
+        },
+        "image_0": "ex_0350_0",
+        "image_1": "ex_0350_1"
     },
     {
         "id": 351,
-        "img_0": "ex_0351_0.png",
-        "img_1": "ex_0351_1.png",
         "caption_0": "a bucket lid facing up",
         "caption_1": "a bucket lid flipped upside down",
         "dataset": "Ego4D",
@@ -7037,12 +7035,12 @@
                 "turn the dustbin lid by 45 degrees",
                 "turn the dustbin lid by 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0351_0",
+        "image_1": "ex_0351_1"
     },
     {
         "id": 352,
-        "img_0": "ex_0352_0.png",
-        "img_1": "ex_0352_1.png",
         "caption_0": "a closed mesh cage",
         "caption_1": "an opened mesh cage",
         "dataset": "Ego4D",
@@ -7057,12 +7055,12 @@
                 "open the cage slightly",
                 "try to open the cage, but it's locked"
             ]
-        }
+        },
+        "image_0": "ex_0352_0",
+        "image_1": "ex_0352_1"
     },
     {
         "id": 353,
-        "img_0": "ex_0353_0.png",
-        "img_1": "ex_0353_1.png",
         "caption_0": "a woman holding glass on the table",
         "caption_1": "a woman drinking water",
         "dataset": "Ego4D",
@@ -7077,12 +7075,12 @@
                 "the woman lifts the glass",
                 "the woman starts drinking water"
             ]
-        }
+        },
+        "image_0": "ex_0353_0",
+        "image_1": "ex_0353_1"
     },
     {
         "id": 354,
-        "img_0": "ex_0354_0.png",
-        "img_1": "ex_0354_1.png",
         "caption_0": "a man reading some papers",
         "caption_1": "a man seeing the table",
         "dataset": "Ego4D",
@@ -7097,12 +7095,12 @@
                 "the man lifts the papers",
                 "the man starts reading papers"
             ]
-        }
+        },
+        "image_0": "ex_0354_0",
+        "image_1": "ex_0354_1"
     },
     {
         "id": 355,
-        "img_0": "ex_0355_0.png",
-        "img_1": "ex_0355_1.png",
         "caption_0": "a person holding something near the mouth",
         "caption_1": "a person puffing smoke",
         "dataset": "Ego4D",
@@ -7117,12 +7115,12 @@
                 "the person exhales light smoke",
                 "the person exhales thick smoke"
             ]
-        }
+        },
+        "image_0": "ex_0355_0",
+        "image_1": "ex_0355_1"
     },
     {
         "id": 356,
-        "img_0": "ex_0356_0.png",
-        "img_1": "ex_0356_1.png",
         "caption_0": "an intact egg",
         "caption_1": "a cracked egg",
         "dataset": "Ego4D",
@@ -7137,12 +7135,12 @@
                 "hit the egg to crack it, but the force is too strong, causing the egg to lose its shape",
                 "hit the egg to crack it, but the force is too weak, so the egg remains intact"
             ]
-        }
+        },
+        "image_0": "ex_0356_0",
+        "image_1": "ex_0356_1"
     },
     {
         "id": 357,
-        "img_0": "ex_0357_0.png",
-        "img_1": "ex_0357_1.png",
         "caption_0": "an unbeaten egg",
         "caption_1": "a beaten egg",
         "dataset": "Ego4D",
@@ -7157,12 +7155,12 @@
                 "fully beat the egg",
                 "stir the egg lightly"
             ]
-        }
+        },
+        "image_0": "ex_0357_0",
+        "image_1": "ex_0357_1"
     },
     {
         "id": 358,
-        "img_0": "ex_0358_0.png",
-        "img_1": "ex_0358_1.png",
         "caption_0": "a plain piece of meat",
         "caption_1": "a piece of meat covered with flour",
         "dataset": "Ego4D",
@@ -7177,12 +7175,12 @@
                 "coat part of the meat with flour",
                 "coat the whole meat with flour"
             ]
-        }
+        },
+        "image_0": "ex_0358_0",
+        "image_1": "ex_0358_1"
     },
     {
         "id": 359,
-        "img_0": "ex_0359_0.png",
-        "img_1": "ex_0359_1.png",
         "caption_0": "a piece of meat covered with flour",
         "caption_1": "a piece of meat covered with beaten egg",
         "dataset": "Ego4D",
@@ -7197,12 +7195,12 @@
                 "coat part of the meat with egg",
                 "coat the whole meat with egg"
             ]
-        }
+        },
+        "image_0": "ex_0359_0",
+        "image_1": "ex_0359_1"
     },
     {
         "id": 360,
-        "img_0": "ex_0360_0.png",
-        "img_1": "ex_0360_1.png",
         "caption_0": "a piece of meat covered with beaten egg",
         "caption_1": "a piece of meat covered with bread crumbs",
         "dataset": "Ego4D",
@@ -7217,12 +7215,12 @@
                 "coat part of the meat with crumbs",
                 "coat the whole meat with crumbs"
             ]
-        }
+        },
+        "image_0": "ex_0360_0",
+        "image_1": "ex_0360_1"
     },
     {
         "id": 361,
-        "img_0": "ex_0361_0.png",
-        "img_1": "ex_0361_1.png",
         "caption_0": "low heat",
         "caption_1": "high heat",
         "dataset": "Ego4D",
@@ -7237,12 +7235,12 @@
                 "turn up to medium heat",
                 "turn up to over high heat"
             ]
-        }
+        },
+        "image_0": "ex_0361_0",
+        "image_1": "ex_0361_1"
     },
     {
         "id": 362,
-        "img_0": "ex_0362_0.png",
-        "img_1": "ex_0362_1.png",
         "caption_0": "a raw tonkatsu",
         "caption_1": "a fried tonkatsu",
         "dataset": "Ego4D",
@@ -7257,12 +7255,12 @@
                 "fry the tonkatsu completely",
                 "fry the tonkatsu, but it ends up overcooked"
             ]
-        }
+        },
+        "image_0": "ex_0362_0",
+        "image_1": "ex_0362_1"
     },
     {
         "id": 363,
-        "img_0": "ex_0363_0.png",
-        "img_1": "ex_0363_1.png",
         "caption_0": "a tonkatsu submerged in cooking oil",
         "caption_1": "a tonkatsu floating on the surface of cooking oil",
         "dataset": "Ego4D",
@@ -7277,12 +7275,12 @@
                 "the tonkatsu floats on the surface",
                 "the tonkatsu sinks in the cooking oil"
             ]
-        }
+        },
+        "image_0": "ex_0363_0",
+        "image_1": "ex_0363_1"
     },
     {
         "id": 364,
-        "img_0": "ex_0364_0.png",
-        "img_1": "ex_0364_1.png",
         "caption_0": "a slightly open cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -7297,12 +7295,12 @@
                 "open the cabinet halfway",
                 "slightly open the cabinet that is halfway open"
             ]
-        }
+        },
+        "image_0": "ex_0364_0",
+        "image_1": "ex_0364_1"
     },
     {
         "id": 365,
-        "img_0": "ex_0365_0.png",
-        "img_1": "ex_0365_1.png",
         "caption_0": "a closed soap container",
         "caption_1": "an opened soap container",
         "dataset": "Ego4D",
@@ -7317,12 +7315,12 @@
                 "rotate the lid of soap container",
                 "try to rotate the lid of the soap container, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0365_0",
+        "image_1": "ex_0365_1"
     },
     {
         "id": 366,
-        "img_0": "ex_0366_0.png",
-        "img_1": "ex_0366_1.png",
         "caption_0": "a bottle ready to pour soap",
         "caption_1": "a bottle into which soap is being poured",
         "dataset": "Ego4D",
@@ -7337,12 +7335,12 @@
                 "start pouring soap into the bottle",
                 "tilt the bottle, but no soap comes out yet"
             ]
-        }
+        },
+        "image_0": "ex_0366_0",
+        "image_1": "ex_0366_1"
     },
     {
         "id": 367,
-        "img_0": "ex_0367_0.png",
-        "img_1": "ex_0367_1.png",
         "caption_0": "a dirty bowl",
         "caption_1": "a bowl filled with detergent",
         "dataset": "Ego4D",
@@ -7357,12 +7355,12 @@
                 "pour detergent into the bowl until it is full",
                 "pour detergent into the bowl until it is half full"
             ]
-        }
+        },
+        "image_0": "ex_0367_0",
+        "image_1": "ex_0367_1"
     },
     {
         "id": 368,
-        "img_0": "ex_0368_0.png",
-        "img_1": "ex_0368_1.png",
         "caption_0": "a double sink being washed",
         "caption_1": "a double sink being rinsed",
         "dataset": "Ego4D",
@@ -7377,12 +7375,12 @@
                 "rinse one side of the double sink thoroughly, and rinse the other side halfway",
                 "rinse the double sink thoroughly"
             ]
-        }
+        },
+        "image_0": "ex_0368_0",
+        "image_1": "ex_0368_1"
     },
     {
         "id": 369,
-        "img_0": "ex_0369_0.png",
-        "img_1": "ex_0369_1.png",
         "caption_0": "a closed tap",
         "caption_1": "an open tap",
         "dataset": "Ego4D",
@@ -7397,12 +7395,12 @@
                 "open the tap to moderate flow",
                 "open the tap, but no water comes out"
             ]
-        }
+        },
+        "image_0": "ex_0369_0",
+        "image_1": "ex_0369_1"
     },
     {
         "id": 370,
-        "img_0": "ex_0370_0.png",
-        "img_1": "ex_0370_1.png",
         "caption_0": "a chunk of cucumber",
         "caption_1": "sticks of cucumber",
         "dataset": "Ego4D",
@@ -7417,12 +7415,12 @@
                 "cut the cucumber into sticks",
                 "cut the cucumber into two pieces"
             ]
-        }
+        },
+        "image_0": "ex_0370_0",
+        "image_1": "ex_0370_1"
     },
     {
         "id": 371,
-        "img_0": "ex_0371_0.png",
-        "img_1": "ex_0371_1.png",
         "caption_0": "noodles partially submerged in water",
         "caption_1": "noodles fully submerged in water",
         "dataset": "Ego4D",
@@ -7437,12 +7435,12 @@
                 "submerge the noodles halfway",
                 "submerge the noodles slightly"
             ]
-        }
+        },
+        "image_0": "ex_0371_0",
+        "image_1": "ex_0371_1"
     },
     {
         "id": 372,
-        "img_0": "ex_0372_0.png",
-        "img_1": "ex_0372_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -7457,12 +7455,12 @@
                 "open the cabinet to about 90 degrees",
                 "slightly open the cabinet"
             ]
-        }
+        },
+        "image_0": "ex_0372_0",
+        "image_1": "ex_0372_1"
     },
     {
         "id": 373,
-        "img_0": "ex_0373_0.png",
-        "img_1": "ex_0373_1.png",
         "caption_0": "a cabinet with one side open",
         "caption_1": "a cabinet with both side open",
         "dataset": "Ego4D",
@@ -7477,12 +7475,12 @@
                 "slightly open the both door of the cabinet",
                 "slightly open the other door of the cabinet"
             ]
-        }
+        },
+        "image_0": "ex_0373_0",
+        "image_1": "ex_0373_1"
     },
     {
         "id": 374,
-        "img_0": "ex_0374_0.png",
-        "img_1": "ex_0374_1.png",
         "caption_0": "an intact slice of ham",
         "caption_1": "a slice of ham cut into two pieces",
         "dataset": "Ego4D",
@@ -7497,12 +7495,12 @@
                 "cut the ham into pieces the size of a nail",
                 "cut the ham into two pieces"
             ]
-        }
+        },
+        "image_0": "ex_0374_0",
+        "image_1": "ex_0374_1"
     },
     {
         "id": 375,
-        "img_0": "ex_0375_0.png",
-        "img_1": "ex_0375_1.png",
         "caption_0": "a partially opened door",
         "caption_1": "a fully opened door",
         "dataset": "Ego4D",
@@ -7517,12 +7515,12 @@
                 "the person fully opens the door that is halfway open",
                 "the person fully opens the door that is slightly open"
             ]
-        }
+        },
+        "image_0": "ex_0375_0",
+        "image_1": "ex_0375_1"
     },
     {
         "id": 376,
-        "img_0": "ex_0376_0.png",
-        "img_1": "ex_0376_1.png",
         "caption_0": "a coffee maker with its pot detached",
         "caption_1": "a coffee maker with its pot attached",
         "dataset": "Ego4D",
@@ -7537,12 +7535,12 @@
                 "roughly attach the pot to the coffee maker",
                 "securely attach the pot to the coffee maker"
             ]
-        }
+        },
+        "image_0": "ex_0376_0",
+        "image_1": "ex_0376_1"
     },
     {
         "id": 377,
-        "img_0": "ex_0377_0.png",
-        "img_1": "ex_0377_1.png",
         "caption_0": "a closed board game box",
         "caption_1": "a opened board game box",
         "dataset": "Ego4D",
@@ -7557,12 +7555,12 @@
                 "open the box halfway",
                 "slightly open the box"
             ]
-        }
+        },
+        "image_0": "ex_0377_0",
+        "image_1": "ex_0377_1"
     },
     {
         "id": 378,
-        "img_0": "ex_0378_0.png",
-        "img_1": "ex_0378_1.png",
         "caption_0": "a floor with litter",
         "caption_1": "a clean floor",
         "dataset": "Ego4D",
@@ -7577,12 +7575,12 @@
                 "partially wipe the floor with the mop",
                 "wipe the floor with the mop halfway"
             ]
-        }
+        },
+        "image_0": "ex_0378_0",
+        "image_1": "ex_0378_1"
     },
     {
         "id": 379,
-        "img_0": "ex_0379_0.png",
-        "img_1": "ex_0379_1.png",
         "caption_0": "a closed cabinet",
         "caption_1": "an opened cabinet",
         "dataset": "Ego4D",
@@ -7597,12 +7595,12 @@
                 "slightly open the cabinet",
                 "try to open the cabinet, but it is locked"
             ]
-        }
+        },
+        "image_0": "ex_0379_0",
+        "image_1": "ex_0379_1"
     },
     {
         "id": 380,
-        "img_0": "ex_0380_0.png",
-        "img_1": "ex_0380_1.png",
         "caption_0": "an open fridge",
         "caption_1": "a closed fridge",
         "dataset": "Ego4D",
@@ -7617,12 +7615,12 @@
                 "the person closes the fridge halfway",
                 "the person closes the fridge slightly"
             ]
-        }
+        },
+        "image_0": "ex_0380_0",
+        "image_1": "ex_0380_1"
     },
     {
         "id": 381,
-        "img_0": "ex_0381_0.png",
-        "img_1": "ex_0381_1.png",
         "caption_0": "a closed sause container",
         "caption_1": "an opened sause container",
         "dataset": "Ego4D",
@@ -7637,12 +7635,12 @@
                 "the person opens the sause container slightly",
                 "the person tries to open the sause container, but it's too stiff"
             ]
-        }
+        },
+        "image_0": "ex_0381_0",
+        "image_1": "ex_0381_1"
     },
     {
         "id": 382,
-        "img_0": "ex_0382_0.png",
-        "img_1": "ex_0382_1.png",
         "caption_0": "a hooked door hinge",
         "caption_1": "an unhooked door hinge",
         "dataset": "Ego4D",
@@ -7657,12 +7655,12 @@
                 "try to unhook the door hinge, but it's too stiff",
                 "try to unhook the door hinge, but the finger slips"
             ]
-        }
+        },
+        "image_0": "ex_0382_0",
+        "image_1": "ex_0382_1"
     },
     {
         "id": 383,
-        "img_0": "ex_0383_0.png",
-        "img_1": "ex_0383_1.png",
         "caption_0": "an open cabinet",
         "caption_1": "a closed cabinet",
         "dataset": "Ego4D",
@@ -7677,12 +7675,12 @@
                 "close the cabinet halfway",
                 "close the cabinet slightly"
             ]
-        }
+        },
+        "image_0": "ex_0383_0",
+        "image_1": "ex_0383_1"
     },
     {
         "id": 384,
-        "img_0": "ex_0384_0.png",
-        "img_1": "ex_0384_1.png",
         "caption_0": "messy stack of cards",
         "caption_1": "arranged cards",
         "dataset": "Ego4D",
@@ -7697,12 +7695,12 @@
                 "the person arranges the cards roughly",
                 "the person tries to arrange the cards, but she drops some of them"
             ]
-        }
+        },
+        "image_0": "ex_0384_0",
+        "image_1": "ex_0384_1"
     },
     {
         "id": 385,
-        "img_0": "ex_0385_0.png",
-        "img_1": "ex_0385_1.png",
         "caption_0": "cards showing their numbers",
         "caption_1": "cards with their numbers invisible",
         "dataset": "Ego4D",
@@ -7717,12 +7715,12 @@
                 "the person turns the cards by 45 degrees",
                 "the person turns the cards by 90 degrees"
             ]
-        }
+        },
+        "image_0": "ex_0385_0",
+        "image_1": "ex_0385_1"
     },
     {
         "id": 386,
-        "img_0": "ex_0386_0.png",
-        "img_1": "ex_0386_1.png",
         "caption_0": "arranged cards",
         "caption_1": "cards that are fanned out",
         "dataset": "Ego4D",
@@ -7737,12 +7735,12 @@
                 "fan out the cards until most of the cards show their number",
                 "fan out the cards until one of the cards show their number"
             ]
-        }
+        },
+        "image_0": "ex_0386_0",
+        "image_1": "ex_0386_1"
     },
     {
         "id": 387,
-        "img_0": "ex_0387_0.png",
-        "img_1": "ex_0387_1.png",
         "caption_0": "a Jenga tower in its initial state",
         "caption_1": "a partially dismantled Jenga tower",
         "dataset": "Ego4D",
@@ -7757,12 +7755,12 @@
                 "play the end stage of jenga",
                 "play the midway of jenga"
             ]
-        }
+        },
+        "image_0": "ex_0387_0",
+        "image_1": "ex_0387_1"
     },
     {
         "id": 388,
-        "img_0": "ex_0388_0.png",
-        "img_1": "ex_0388_1.png",
         "caption_0": "an upright Jenga tower",
         "caption_1": "a tilted Jenga tower",
         "dataset": "Ego4D",
@@ -7777,12 +7775,12 @@
                 "jenga tower tilts by 45 degrees",
                 "jenga tower tilts slightly"
             ]
-        }
+        },
+        "image_0": "ex_0388_0",
+        "image_1": "ex_0388_1"
     },
     {
         "id": 389,
-        "img_0": "ex_0389_0.png",
-        "img_1": "ex_0389_1.png",
         "caption_0": "a shawl curled up on the floor",
         "caption_1": "a shawl spread on the floor",
         "dataset": "Ego4D",
@@ -7797,12 +7795,12 @@
                 "the person spreads the shawl slightly",
                 "the person spreads the shawl with folds"
             ]
-        }
+        },
+        "image_0": "ex_0389_0",
+        "image_1": "ex_0389_1"
     },
     {
         "id": 390,
-        "img_0": "ex_0390_0.png",
-        "img_1": "ex_0390_1.png",
         "caption_0": "a peeled potato",
         "caption_1": "a sliced potato",
         "dataset": "Ego4D",
@@ -7817,12 +7815,12 @@
                 "slice half of the potato",
                 "slice most of the potato"
             ]
-        }
+        },
+        "image_0": "ex_0390_0",
+        "image_1": "ex_0390_1"
     },
     {
         "id": 391,
-        "img_0": "ex_0391_0.png",
-        "img_1": "ex_0391_1.png",
         "caption_0": "a pot filled with broth that is not simmering yet",
         "caption_1": "a pot filled with simmering broth",
         "dataset": "Ego4D",
@@ -7837,12 +7835,12 @@
                 "heat the broth, but it remains cold",
                 "try to turn on the stove, but it doesn't work"
             ]
-        }
+        },
+        "image_0": "ex_0391_0",
+        "image_1": "ex_0391_1"
     },
     {
         "id": 392,
-        "img_0": "ex_0392_0.png",
-        "img_1": "ex_0392_1.png",
         "caption_0": "a closed playing card box",
         "caption_1": "an opened playing card box",
         "dataset": "Ego4D",
@@ -7857,12 +7855,12 @@
                 "the person tries to open the box, but he crushes it",
                 "the person tries to open the box, but his finger slips"
             ]
-        }
+        },
+        "image_0": "ex_0392_0",
+        "image_1": "ex_0392_1"
     },
     {
         "id": 393,
-        "img_0": "ex_0393_0.png",
-        "img_1": "ex_0393_1.png",
         "caption_0": "a pot of plain water",
         "caption_1": "a pot of broth",
         "dataset": "Ego4D",
@@ -7877,12 +7875,12 @@
                 "season the water",
                 "season, stir and boil the water"
             ]
-        }
+        },
+        "image_0": "ex_0393_0",
+        "image_1": "ex_0393_1"
     },
     {
         "id": 394,
-        "img_0": "ex_0394_0.png",
-        "img_1": "ex_0394_1.png",
         "caption_0": "crossing legs with the right leg on top",
         "caption_1": "crossing legs with the left leg on top",
         "dataset": "Ego4D",
@@ -7897,12 +7895,12 @@
                 "recloss the legs",
                 "uncross the legs"
             ]
-        }
+        },
+        "image_0": "ex_0394_0",
+        "image_1": "ex_0394_1"
     },
     {
         "id": 395,
-        "img_0": "ex_0395_0.png",
-        "img_1": "ex_0395_1.png",
         "caption_0": "a woman holding a box",
         "caption_1": "a woman pointing a wall",
         "dataset": "Ego4D",
@@ -7917,12 +7915,12 @@
                 "the person points the desk",
                 "the person points the wall"
             ]
-        }
+        },
+        "image_0": "ex_0395_0",
+        "image_1": "ex_0395_1"
     },
     {
         "id": 396,
-        "img_0": "ex_0396_0.png",
-        "img_1": "ex_0396_1.png",
         "caption_0": "a hosepipe above the wire mesh",
         "caption_1": "a hosepipe inserted through the wire mesh",
         "dataset": "Ego4D",
@@ -7937,12 +7935,12 @@
                 "lift the hosepipe under the wire mesh",
                 "put the hosepipe on the wire mesh"
             ]
-        }
+        },
+        "image_0": "ex_0396_0",
+        "image_1": "ex_0396_1"
     },
     {
         "id": 397,
-        "img_0": "ex_0397_0.png",
-        "img_1": "ex_0397_1.png",
         "caption_0": "unfixed electrical wires",
         "caption_1": "electrical wires fixed on a pipe with a tape",
         "dataset": "Ego4D",
@@ -7957,12 +7955,12 @@
                 "softly fix all the wires on the pipe",
                 "softly fix half of the wires on the pipe"
             ]
-        }
+        },
+        "image_0": "ex_0397_0",
+        "image_1": "ex_0397_1"
     },
     {
         "id": 398,
-        "img_0": "ex_0398_0.png",
-        "img_1": "ex_0398_1.png",
         "caption_0": "intact wires",
         "caption_1": "cut wires",
         "dataset": "Ego4D",
@@ -7977,12 +7975,12 @@
                 "put all the wires between blades of the plier",
                 "put one of the wires between blades of the plier"
             ]
-        }
+        },
+        "image_0": "ex_0398_0",
+        "image_1": "ex_0398_1"
     },
     {
         "id": 399,
-        "img_0": "ex_0399_0.png",
-        "img_1": "ex_0399_1.png",
         "caption_0": "a bottle with its lid on",
         "caption_1": "a bottle with its lid removed",
         "dataset": "Ego4D",
@@ -7997,12 +7995,12 @@
                 "rotate the lid of the bottle",
                 "try to rotate the lid of the bottle, but it was the wrong way"
             ]
-        }
+        },
+        "image_0": "ex_0399_0",
+        "image_1": "ex_0399_1"
     },
     {
         "id": 400,
-        "img_0": "ex_0400_0.png",
-        "img_1": "ex_0400_1.png",
         "caption_0": "a cable reel laid on its side",
         "caption_1": "a cable reel standing vertically",
         "dataset": "Ego4D",
@@ -8017,12 +8015,12 @@
                 "tilt the reel to take down it",
                 "try to tilt the reel, but it is too heavy"
             ]
-        }
+        },
+        "image_0": "ex_0400_0",
+        "image_1": "ex_0400_1"
     },
     {
         "id": 401,
-        "img_0": "ex_0401_0.png",
-        "img_1": "ex_0401_1.png",
         "caption_0": "a folded ladder",
         "caption_1": "an opened ladder",
         "dataset": "Ego4D",
@@ -8037,12 +8035,12 @@
                 "open and climb the ladder",
                 "open and securely place the ladder"
             ]
-        }
+        },
+        "image_0": "ex_0401_0",
+        "image_1": "ex_0401_1"
     },
     {
         "id": 402,
-        "img_0": "ex_0402_0.png",
-        "img_1": "ex_0402_1.png",
         "caption_0": "a wire reel covered by a nylon sheet",
         "caption_1": "a wire reel with its nylon cover removed",
         "dataset": "Ego4D",
@@ -8057,12 +8055,12 @@
                 "partially remove the nylon cover",
                 "remove the nylon cover halfway"
             ]
-        }
+        },
+        "image_0": "ex_0402_0",
+        "image_1": "ex_0402_1"
     },
     {
         "id": 403,
-        "img_0": "ex_0403_0.png",
-        "img_1": "ex_0403_1.png",
         "caption_0": "an empty bottle",
         "caption_1": "a bottle filled with water",
         "dataset": "Ego4D",
@@ -8077,6 +8075,8 @@
                 "fill half of the bottle with water",
                 "fill the bottle with water almost completely"
             ]
-        }
+        },
+        "image_0": "ex_0403_0",
+        "image_1": "ex_0403_1"
     }
 ]
